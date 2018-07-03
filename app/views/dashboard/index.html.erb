@@ -1,0 +1,23 @@
+<h2>Dashboard</h2>
+<div class="container">
+    <div class="row">
+        <div class="col-6 map">
+            <iframe
+            width="600"
+            height="450"
+            frameborder="0" style="border:0"
+            src="https://www.google.com/maps/embed/v1/place?key=AIzaSyC_V2YhbRlxzD25WtJbAJo3oMyDCkpJqHk
+            &q=49+Avenue+Vernon+Boulevard+5+Street+new+york" allowfullscreen>
+            </iframe>
+        </div>
+        <div class="col-6">
+            Num Results: <%= @my_response.length %>
+
+            <% @my_response.each_with_index do |my_response, index| %>
+               <% sleep(2) %>
+                <% results = Geocoder.search(my_response['location']) %>
+                test <%= index %>: <%= my_result = results.first && results.first.coordinates %><br>
+            <% end %>
+        </div>
+    </div>
+</div>

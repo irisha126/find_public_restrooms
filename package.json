@@ -1,0 +1,9 @@
+{
+  "name": "find_public_restroom",
+  "private": true,
+  "dependencies": {
+    "axios": "^0.18.0",
+    "bootstrap": "^4.1.1",
+    "jquery": "^3.3.1"
+  }
+}

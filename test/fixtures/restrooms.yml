@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  borough: MyString
+  location: MyString
+  name: MyString
+  open_time: 2018-06-29 17:09:08
+  close_time: 2018-06-29 17:09:08
+
+two:
+  borough: MyString
+  location: MyString
+  name: MyString
+  open_time: 2018-06-29 17:09:08
+  close_time: 2018-06-29 17:09:08

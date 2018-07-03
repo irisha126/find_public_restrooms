@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  borough: MyString
+  location: MyText
+  name: MyString
+  open_year_round: MyString
+
+two:
+  borough: MyString
+  location: MyText
+  name: MyString
+  open_year_round: MyString
