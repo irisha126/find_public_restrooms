@@ -14,6 +14,28 @@ namespace :dummy do
             )
         end
     end
+    
+    task populate_db_bathroom_locations: :environment do
+        
+        CSV.foreach("./bathroom_locations.csv") do |data_row|
+            
+            unless data_row[0] == 'id'
+                next if BathroomLocation.exists?(location: data_row[2])
+              BathroomLocation.create(
+                    borough: data_row[1],
+                    location: data_row[2],
+                    name: data_row[3],
+                    open_year_round: data_row[4],
+                    created_at: data_row[5],
+                    updated_at: data_row[6],
+                    latitude: data_row[7],
+                    longitude: data_row[8]
+    
+                )
+            end
+        end
+            
+    end
         
 end
         

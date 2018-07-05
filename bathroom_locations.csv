@@ -1,0 +1,586 @@
+"id","borough","location","name","open_year_round","created_at","updated_at","latitude","longitude"
+668,"Brooklyn","Flushing & Bushwick Avenue between Garden & Beaver","Bushwick Playground & Pool","Yes","2018-07-03 15:38:40.415779","2018-07-03 15:38:40.415779",40.70164219999999,-73.9393668
+669,"Queens","121 Avenue & 220 Street","Cabbell Park/Cambria Playground","Yes","2018-07-03 15:38:40.436984","2018-07-03 15:38:40.436984",40.688052,-73.74277599999999
+670,"Brooklyn","Tillary, Cadman Plaza West, Cadman Plaza East, Prospect streets","Cadman Plaza & Brooklyn War Memorial","Yes","2018-07-03 15:38:40.457515","2018-07-03 15:38:40.457515",40.6976723,-73.9906433
+671,"Brooklyn","Hope Street & Metropolitan Avenue","Campiz Playground","Yes","2018-07-03 15:38:40.478712","2018-07-03 15:38:40.478712",40.7134801,-73.957331
+672,"Brooklyn","Paerdegat Avenue, Seaview Avenue, East 93rd Street, Skidmore Avenue","Canarsie Park","Yes","2018-07-03 15:38:40.500825","2018-07-03 15:38:40.500825",40.6264185,-73.90077889999999
+674,"Queens","Highland Avenue, Upland Parkway, Gothic Parkway, 85 Avenue","Capt. Tilly Park","Yes","2018-07-03 15:38:40.558532","2018-07-03 15:38:40.558532",40.7110355,-73.7976367
+675,"Queens","Kissena Boulevard & Booth Memorial Avenue","Captain Mario Fajardo Park","Yes","2018-07-03 15:38:41.030635","2018-07-03 15:38:41.030635",40.7429665,-73.8143118
+676,"Manhattan","East 84 Street & East End Avenue","Carl Schurz Park","Yes","2018-07-03 15:38:41.813504","2018-07-03 15:38:41.813504",40.777504,-73.9549428
+677,"Manhattan","Stone Wall to East River, East 84 to East 90 streets","Carl Schurz Promenade","Yes","2018-07-03 15:38:42.676029","2018-07-03 15:38:42.676029",40.777504,-73.9549428
+678,"Manhattan","Amsterdam Avenue, West 151 to West 152 streets","Carmansville Playground","Yes","2018-07-03 15:38:43.566613","2018-07-03 15:38:43.566613",40.8290247,-73.9448489
+679,"Brooklyn","Court & Smith Streets","Carroll Park","Yes","2018-07-03 15:38:43.58686","2018-07-03 15:38:43.58686",40.6896429,-73.9887952
+680,"Brooklyn","Ralph Avenue & Sumpter Street","Carver Playground","No","2018-07-03 15:38:43.607234","2018-07-03 15:38:43.607234",40.6797449,-73.9221197
+681,"Bronx","St. Raymond Avenue, Puroy Street","Caserta Playground","Yes","2018-07-03 15:38:43.626486","2018-07-03 15:38:43.626486",40.8376796,-73.85350729999999
+682,"Bronx","Parker Street, Castle Hill Avenue, Puroy Street","Castle Hill Playground","Yes","2018-07-03 15:38:44.194636","2018-07-03 15:38:44.194636",40.8398457,-73.8528789
+683,"Queens","Little Neck Parkway & 72 Avenue","Castlewood Playground (PS 186)","Yes","2018-07-03 15:38:44.716228","2018-07-03 15:38:44.716228",40.7503995,-73.72034409999999
+684,"Bronx","Caldwell Avenue, East 163 Street, East 161 Street","Cauldwell Playground","Yes","2018-07-03 15:38:44.736938","2018-07-03 15:38:44.736938",40.8284995,-73.9214277
+685,"Bronx","East Gun Hill Road, Eastchest Road, & O'Neil Place","Cavanaugh Triangle (Angelo Campanero Playground)","Yes","2018-07-03 15:38:45.328068","2018-07-03 15:38:45.328068",40.8684661,-73.8423973
+686,"Bronx","West 179 Street, West Burnside Avenue, Major Deegan Expressway, Sedgewick Avenue","Cedar Playground","Yes","2018-07-03 15:38:45.355454","2018-07-03 15:38:45.355454",40.8548224,-73.911186
+687,"Manhattan","85 ST & 5TH AVE","Central Park (Ancient Playground)",,"2018-07-03 15:38:45.376586","2018-07-03 15:38:45.376586",40.7808552,-73.9609158
+688,"Manhattan","5th Avenue from 60th Street to 65th Street","Central Park (Arsenal)","Yes","2018-07-03 15:38:45.945124","2018-07-03 15:38:45.945124",40.7631737,-73.9708939
+689,"Manhattan",,"Central Park (Bethesda Terrace)",,"2018-07-03 15:38:45.967152","2018-07-03 15:38:45.967152",40.7830603,-73.9712488
+690,"Manhattan","5th Avenue, 103rd Street to 106th Street","Central Park (Conservatory Garden)","Yes","2018-07-03 15:38:45.994393","2018-07-03 15:38:45.994393",40.792494,-73.951909
+693,"Manhattan","74th Street near Fifth Avenue","Central Park (Kerbs Boathouse)","Yes","2018-07-03 15:38:46.96922","2018-07-03 15:38:46.96922",40.770436,-73.95740099999999
+694,"Manhattan","Central Park at 107th Street","Central Park (Lasker)","Yes","2018-07-03 15:38:47.583747","2018-07-03 15:38:47.583747",40.7987267,-73.95954580000001
+695,"Manhattan","East Side between 74th and 75th streets","Central Park (Loeb Boathouse)","Yes","2018-07-03 15:38:47.605307","2018-07-03 15:38:47.605307",40.7712245,-73.9580608
+697,"Manhattan","Central Park","Central Park (Ramble)",,"2018-07-03 15:38:48.198223","2018-07-03 15:38:48.198223",40.7828647,-73.9653551
+698,"Manhattan","Mid-park at 69th Street","Central Park (Sheep Meadow, Mineral Springs)","No","2018-07-03 15:38:49.01808","2018-07-03 15:38:49.01808",40.7691272,-73.9651416
+699,"Manhattan","93d Street near the West Drive","Central Park (Tennis Courts)","Yes","2018-07-03 15:38:49.840504","2018-07-03 15:38:49.840504",40.7940348,-73.97633909999999
+700,"Manhattan","West Side from 103rd to 107th streets","Central Park (The Great Hill)","No","2018-07-03 15:38:50.451669","2018-07-03 15:38:50.451669",40.8005115,-73.962802
+702,"Manhattan","West Drive, Central Park West, & 65th Street Transverse","Central Park (West 61st)","No","2018-07-03 15:38:51.063721","2018-07-03 15:38:51.063721",40.7717916,-73.9792078
+703,"Manhattan","Center Drive to East Drive (including Gapstow Bridge)","Central Park (Wollman Rink)","Yes","2018-07-03 15:38:51.679663","2018-07-03 15:38:51.679663",40.7669259,-73.9738328
+704,"Manhattan","Mid-Park at 80th Street","Central Park Delacorte Comfort Station","Yes","2018-07-03 15:38:51.701276","2018-07-03 15:38:51.701276",40.7730858,-73.9528703
+705,"Brooklyn","Brighton Beach Avenue & West 2 Street","Century Playground","Yes","2018-07-03 15:38:51.727459","2018-07-03 15:38:51.727459",40.5771396,-73.9652133
+707,"Manhattan","West 27 Street & 9 Avenue","Chelsea Park","Yes","2018-07-03 15:38:52.54544","2018-07-03 15:38:52.54544",40.7501121,-74.0011837
+708,"Manhattan","South of West 25 Street, 9 to 10 avenues","Chelsea Recreation Center","Yes","2018-07-03 15:38:54.13765","2018-07-03 15:38:54.13765",40.6685763,-73.9868078
+709,"Manhattan","99 to 100 streets, 3 Avenue","Cherry Tree (Washington) Playground","Yes","2018-07-03 15:38:54.960704","2018-07-03 15:38:54.960704",40.7671906,-73.96247989999999
+711,"Bronx","Arthur Avenue, East 188 Street","Ciccarone Park Playground","Yes","2018-07-03 15:38:55.571729","2018-07-03 15:38:55.571729",40.8564291,-73.88681489999999
+713,"Bronx","Mount Eden Parkway & Morris Avenue","Claremont Park","Yes","2018-07-03 15:38:55.631874","2018-07-03 15:38:55.631874",40.8430541,-73.90954700000002
+714,"Bronx","E 170 Street & Teller Avenue","Claremont Park Playground","Yes","2018-07-03 15:38:56.39018","2018-07-03 15:38:56.39018",40.83714459999999,-73.90964439999999
+717,"Queens","Clintonville Street, 17 Road & 17 Avenue","Clintonville Playground (JHS 194)","Yes","2018-07-03 15:38:57.414336","2018-07-03 15:38:57.414336",40.7829603,-73.808236
+719,"Brooklyn","Ocean Parkway, Avenue P, East 3 Street","Col. David Marcus Memorial Playground","Yes","2018-07-03 15:38:58.236619","2018-07-03 15:38:58.236619",40.60944,-73.9673996
+720,"Manhattan","Between Cherry & Monroe streets","Coleman Square Playground","Yes","2018-07-03 15:38:58.849185","2018-07-03 15:38:58.849185",40.7112051,-73.99365449999999
+696,"Manhattan","Mid-park at 97th Street","Central Park (North Meadow Recreation Center)","Yes","2018-07-03 15:38:47.639391","2018-07-03 16:17:21.240396",40.7911833,-73.9595918
+701,"Manhattan","Fifth Avenue at 82nd Street","Central Park (The Metropolitan Museum of Art)","Yes","2018-07-03 15:38:50.490461","2018-07-03 16:17:21.852271",40.7789593,-73.9623038
+710,"Brooklyn","Chester Street, Sutter Avenue","Chester Playground","Yes","2018-07-03 15:38:55.044291","2018-07-03 16:17:22.470528",40.667026,-73.911018
+715,"Bronx","3 Avenue, East 144 Street, East 146 Street","Clark Playground","Yes","2018-07-03 15:38:56.427486","2018-07-03 16:17:23.286",40.8137524,-73.9220586
+716,"Queens","Broadway & 83 Street","Clement Clark Moore Park","Yes","2018-07-03 15:38:56.465266","2018-07-03 16:17:24.107963",40.7863976,-73.9779854
+718,"Manhattan","West 144 Street & Lenox Avenue","Col. Charles Young Playground","Yes","2018-07-03 15:38:57.452199","2018-07-03 16:17:24.843882",40.81980129999999,-73.936802
+706,"Queens","251 Street & 63 Avenue","Challenge Playground (PS 187) 251 Street Playground","No","2018-07-03 15:38:51.770305","2018-07-03 16:19:28.425707",40.7559921,-73.72722399999999
+712,"Brooklyn","Atlantic & Fountain avenues","City Line Park","Yes","2018-07-03 15:38:55.609622","2018-07-03 16:19:29.036899",40.6801621,-73.87658809999999
+721,"Queens","130th Street & 23rd Avenue","College Point Park","Yes","2018-07-03 15:38:58.884119","2018-07-03 16:19:29.856156",40.778612,-73.83886439999999
+673,"Bronx","East 156 Street, Forest Avenue","Capt. Rivera Playground","Yes","2018-07-03 15:38:40.538585","2018-07-03 16:22:16.155702",40.8181562,-73.9062391
+722,"Bronx","Hutchinson River Parkway, Wilkinson Avenue, Mayflower Avenue","Colucci Playground","Yes","2018-07-03 15:38:59.463483","2018-07-03 15:38:59.463483",40.851854,-73.83375699999999
+725,"Brooklyn","South of Flushing Avenue","Com. John Barry Park & Playground","Yes","2018-07-03 15:39:00.079185","2018-07-03 15:39:00.079185",40.7019109,-73.9369844
+726,"Brooklyn","East 38 Street & Ryder Street, Avenue M","Comm. Eugene S. Sarsfield Playground","Yes","2018-07-03 15:39:00.691512","2018-07-03 15:39:00.691512",40.6205273,-73.9370026
+732,"Brooklyn","West 16th Street","Coney Island Beach","No","2018-07-03 15:39:01.510378","2018-07-03 15:39:01.510378",40.5799408,-73.9843219
+748,"Brooklyn","Blake & Euclid avenues","Cypress Hills Park","Yes","2018-07-03 15:39:02.74322","2018-07-03 15:39:02.74322",40.6713598,-73.8709472
+727,"Brooklyn","Brighton 2nd","Coney Island",,"2018-07-03 15:39:00.730575","2018-07-03 16:17:26.361953",40.5771396,-73.9652133
+728,"Brooklyn","W 27 ST.","Coney Island",,"2018-07-03 15:39:00.764434","2018-07-03 16:17:26.973384",40.5743972,-73.9930305
+729,"Brooklyn","W 33 St.","Coney Island",,"2018-07-03 15:39:00.807891","2018-07-03 16:17:27.797224",40.5765475,-73.99990770000001
+733,"Brooklyn","W 22 ST.","Coney Island Beach","No","2018-07-03 15:39:01.547755","2018-07-03 16:17:29.432839",40.5756351,-73.9889111
+734,"Staten Island","Pittsville St,Hylan Blvd.,Surf,Richard Aves","Conference House Park",,"2018-07-03 15:39:01.584918","2018-07-03 16:17:29.844147",40.5462073,-74.1418065
+735,"Brooklyn","Sharon, Olive streets, Maspeth & Morgan avenues","Cooper Park","Yes","2018-07-03 15:39:01.624647","2018-07-03 16:17:30.338668",40.7167763,-73.9363177
+737,"Manhattan","Hudson & Horatio streets","Corporal John A. Seravalli Playground","Yes","2018-07-03 15:39:01.70445","2018-07-03 16:17:31.071289",40.7387624,-74.0054984
+738,"Staten Island","Broadway, Henderson Avenue","Corporal Thompson Park","No","2018-07-03 15:39:01.741218","2018-07-03 16:17:31.537933",40.63697579999999,-74.1175652
+739,"Queens","34th Avenue, 214th Place, 34th Road, 214th Lane, 35th Avenue, & 216th Street","Crocheron Park Field House","Yes","2018-07-03 15:39:01.784512","2018-07-03 16:17:32.225164",40.7544991,-73.87806719999999
+740,"Bronx","Crotona East & Claremont Parkway","Crotona Park (Martin Van Buren Playground)","Yes","2018-07-03 15:39:01.832509","2018-07-03 16:17:33.116715",40.8354364,-73.8951486
+742,"Bronx","173rd Street and Fulton Avenue","Crotona Park (Pool House)","Yes","2018-07-03 15:39:01.933943","2018-07-03 16:17:33.732875",40.840693,-73.8982786
+744,"Queens","57 Avenue & 83 Street","Crowley Playground","Yes","2018-07-03 15:39:02.070958","2018-07-03 16:17:34.739985",40.7297169,-73.8800815
+746,"Queens","210 Street & 73 Avenue","Cunningham Park (210th Street Playground)","Yes","2018-07-03 15:39:02.171716","2018-07-03 16:17:35.372563",40.7391723,-73.7635976
+747,"Queens","South of Union Turnpike, between Francis Lewis Boulevard & 193rd Street","Cunningham Park (HQ8)","Yes","2018-07-03 15:39:02.225565","2018-07-03 16:17:35.901659",40.7291208,-73.7742339
+749,"Queens","113 Avenue & 196 Street","Daniel M. O'Connell Playground","Yes","2018-07-03 15:39:02.779115","2018-07-03 16:17:37.00986",40.700428,-73.758845
+750,"Manhattan","West 52 to West 54 streets, 11 to 12 avenues","De Witt Clinton Park","Yes","2018-07-03 15:39:02.815913","2018-07-03 16:17:37.831284",40.7627617,-73.98266629999999
+751,"Staten Island","Tompkins Avenue, Chestnut Avenue","Dematti Playground","Yes","2018-07-03 15:39:02.854426","2018-07-03 16:17:38.443612",40.6154159,-74.073454
+752,"Queens","106 Avenue, 173 Street, Liberty Avenue, 172 Street","Detective Keith L. Williams Park","Yes","2018-07-03 15:39:02.891464","2018-07-03 16:17:39.263216",40.7041836,-73.7859804
+753,"Bronx","West Fordham Road, University Avenue, Sedgwick Avenue, Father Zeiser Place","Devoe Park","Yes","2018-07-03 15:39:02.924994","2018-07-03 16:17:39.877094",40.8627608,-73.9049569
+754,"Brooklyn","McDonald Avenue & Avenue F","Digilio Playground","Yes","2018-07-03 15:39:02.958983","2018-07-03 16:17:40.49171",40.63314219999999,-73.977678
+755,"Brooklyn","Hicks & Rapelye streets","Dimattina Playground","Yes","2018-07-03 15:39:02.995312","2018-07-03 16:17:41.107989",40.680664,-74.003289
+757,"Staten Island","Osborne Street and Preston Avenue","Double Nickel Playground","Yes","2018-07-03 15:39:03.064365","2018-07-03 16:17:41.935494",40.5374905,-74.16228629999999
+758,"Manhattan","Downing to Carmine streets, Avenue of the Americas","Downing Street Playground","Yes","2018-07-03 15:39:03.100866","2018-07-03 16:17:42.425066",40.7300097,-74.0029294
+759,"Queens","Van Wyck Expressway, 116 Avenue, 140 Street, 115 Avenue","Dr. Charles R. Drew Memorial Park","Yes","2018-07-03 15:39:03.134443","2018-07-03 16:17:42.951801",40.6971823,-73.740584
+762,"Bronx","Fulton Avenue, East 169 Street","Drew Playground","Yes","2018-07-03 15:39:03.247352","2018-07-03 16:17:43.688869",40.8322219,-73.9034334
+763,"Manhattan","East 10 Street & Szold Place, Avenue D","Dry Dock Playground","No","2018-07-03 15:39:03.284025","2018-07-03 16:17:44.382747",40.7253338,-73.9762191
+764,"Staten Island","Mill Road & Tysens Lane","Dugan Playground","Yes","2018-07-03 15:39:03.319694","2018-07-03 16:17:44.997895",40.5614573,-74.11225089999999
+765,"Queens","Crescent-28 streets, 36 Avenue, 37 Avenue","Dutch Kills Playground (PS 112)","Yes","2018-07-03 15:39:03.357907","2018-07-03 16:17:45.611524",40.757986,-73.93274730000002
+766,"Manhattan","Broadway & West 204 Street","Dyckman House Museum","Yes","2018-07-03 15:39:03.39175","2018-07-03 16:17:46.430968",40.8670215,-73.92312079999999
+767,"Brooklyn","Shore Parkway, 86 Street, 7 to 14 avenues","Dyker Beach Park","Yes","2018-07-03 15:39:03.426627","2018-07-03 16:17:47.052818",40.66287260000001,-73.9626792
+768,"Queens","25 Avenue & 98 Street","East Elmhurst Playground (PS 127)","Yes","2018-07-03 15:39:03.464613","2018-07-03 16:17:47.66904",40.764625,-73.87177299999999
+769,"Manhattan","Northern extreme of park","East River Park (10th Street)","Yes","2018-07-03 15:39:03.502342","2018-07-03 16:17:48.274188",39.18360819999999,-96.57166939999999
+772,"Manhattan","FDR Drive, East 106 to East 107 streets","East River Playground","Yes","2018-07-03 15:39:03.60781","2018-07-03 16:17:49.29845",40.7892847,-73.93800279999999
+774,"Bronx","Adee Avenue, Tenbroeck Avenue","Eastchester Playground","Yes","2018-07-03 15:39:03.68046","2018-07-03 16:17:49.912471",40.86944889999999,-73.8527577
+775,"Bronx","East 226 Drive, Schieffelin Avenue","Edenwald Playground","Yes","2018-07-03 15:39:03.716202","2018-07-03 16:17:50.447996",40.8834859,-73.8453026
+777,"Brooklyn","DeKalb Avenue, Adelphi Street","Edmonds Playground","Yes","2018-07-03 15:39:03.789522","2018-07-03 16:17:51.579583",40.6895466,-73.9711441
+778,"Queens","164 Street, south of 65 Avenue","Electric Playground","Yes","2018-07-03 15:39:03.826216","2018-07-03 16:17:52.57549",40.7367814,-73.8048343
+724,"Manhattan","Baxter, Mulberry, Bayard & Worth streets","Columbus Park","Yes","2018-07-03 15:38:59.541616","2018-07-03 16:19:30.431598",40.7159175,-73.9993322
+736,"Queens","109 Street between 46-47 avenues","Corona Golf Playground","Yes","2018-07-03 15:39:01.661256","2018-07-03 16:19:31.29023",40.7401617,-73.91953149999999
+741,"Bronx","Fulton Avenue & Crotona Park South","Crotona Park (Playground of the Stars)","Yes","2018-07-03 15:39:01.880476","2018-07-03 16:19:31.935555",40.8354996,-73.9012832
+745,"Queens","Union Turnpike, Clearview Expressway, 73rd Avenue, Francis Lewis Boulevard","Cunningham Park","Yes","2018-07-03 15:39:02.130596","2018-07-03 16:19:32.413325",40.7362975,-73.7727919
+756,"Queens","23 Avenue to Ditmars Boulevard","Ditmars Park Playground","Yes","2018-07-03 15:39:03.027796","2018-07-03 16:19:33.131186",40.7794809,-73.915911
+760,"Brooklyn","Dumont, Blake, Miller avenues","Dr. Martin Luther King Jr. Park","Yes","2018-07-03 15:39:03.169643","2018-07-03 16:19:33.745658",40.668524,-73.890165
+770,"Manhattan","East River Park at Broome Street","East River Park (Tennis Courts)","Yes","2018-07-03 15:39:03.538299","2018-07-03 16:19:34.976463",40.7236756,-73.9726049
+771,"Manhattan","East 6 Street & FDR Drive","East River Park (Track Building)","Yes","2018-07-03 15:39:03.573193","2018-07-03 16:19:35.794149",40.7216141,-73.9747562
+773,"Queens","115 Road between 218 & 219 streets","East Springfield Playground","Yes","2018-07-03 15:39:03.646026","2018-07-03 16:19:36.61518",40.69795,-73.73665199999999
+779,"Queens","164 Street between Jewel & 71 avenues","Emerald Playground (PS 200)","Yes","2018-07-03 15:39:03.862326","2018-07-03 16:19:37.43387",40.73310120000001,-73.8049016
+780,"Queens","90 Street, 88 & 89 avenues","Equity Park","Yes","2018-07-03 15:39:03.898547","2018-07-03 16:19:38.457062",40.69090200000001,-73.853726
+731,"Brooklyn","Stillwell Avenue","Coney Island Beach","Yes","2018-07-03 15:39:00.889671","2018-07-03 16:22:16.770999",40.5906007,-73.9840949
+784,"Queens","32 Avenue, 99 Street","Fisher Pool","No","2018-07-03 15:39:04.788578","2018-07-03 15:39:04.788578",40.7590771,-73.8698387
+785,"Queens","Bayside Avenue, 25 Avenue, 149 to 150 streets","Flushing Fields (Leonardo Ingravallo Playground)","Yes","2018-07-03 15:39:05.607179","2018-07-03 15:39:05.607179",40.7717653,-73.81210779999999
+787,"Queens","College Point Boulevard and Lawrence Street","Flushing Meadows Corona Park (Lawrence Playground)","Yes","2018-07-03 15:39:06.246611","2018-07-03 15:39:06.246611",40.7668878,-73.8391989
+797,"Queens","West Main Drive to eastern side of golf course","Forest Park (Seuffert Bandshell)","No","2018-07-03 15:39:08.353607","2018-07-03 15:39:08.353607",40.6971274,-73.8666398
+798,"Queens","Park Lane South and Abingdon Road","Forest Park (Sobelsohn Playground, The Overlook)","Yes","2018-07-03 15:39:08.439904","2018-07-03 15:39:08.439904",40.70963589999999,-73.834812
+806,"Manhattan","Broadway & Dyckman Street","Fort Tryon Park (Anne Loftus Playground)","Yes","2018-07-03 15:39:09.90731","2018-07-03 15:39:09.90731",40.8655358,-73.9272766
+807,"Manhattan","One Margaret Corbin Drive","Fort Tryon Park (Café)","No","2018-07-03 15:39:10.522234","2018-07-03 15:39:10.522234",40.8608061,-73.9327347
+810,"Brooklyn","Avenue H, East 54 to E 55 streets","Fox Playground","Yes","2018-07-03 15:39:11.629757","2018-07-03 15:39:11.629757",40.6330832,-73.9244842
+811,"Queens","3 Avenue and Bronx Whitestone Bridge","Francis Lewis Playground","Yes","2018-07-03 15:39:12.527448","2018-07-03 15:39:12.527448",40.7965619,-73.824516
+812,"Queens","Broadway & 78 Street","Frank D. O'Connor Playground","Yes","2018-07-03 15:39:13.392054","2018-07-03 15:39:13.392054",40.7449536,-73.88733479999999
+813,"Queens","132 to 138 streets, 14 Road","Frank Golden Park","Yes","2018-07-03 15:39:14.007878","2018-07-03 15:39:14.007878",40.7846948,-73.85123949999999
+816,"Manhattan","West 100-101 Street Amsterdam Avenue","Frederick Douglass Playground","Yes","2018-07-03 15:39:15.02861","2018-07-03 15:39:15.02861",40.79725,-73.96803799999999
+817,"Manhattan","Lenox Avenue, West 139 to West 140 streets","Frederick E. Samuel Playground","Yes","2018-07-03 15:39:16.051133","2018-07-03 15:39:16.051133",40.8166775,-73.9390772
+821,"Brooklyn","Fulton, Chauncey streets, Stuyvesant, Lewis avenues","Fulton Park","Yes","2018-07-03 15:39:16.665756","2018-07-03 15:39:16.665756",40.6797339,-73.9328673
+822,"Brooklyn","Bedford Avenue, Gravesend Neck Road","Galapo Playground","Yes","2018-07-03 15:39:17.287201","2018-07-03 15:39:17.287201",40.5984043,-73.9463384
+823,"Brooklyn","82 to 83 Street at 18 Avenue","Garibaldi Playground","Yes","2018-07-03 15:39:18.099802","2018-07-03 15:39:18.099802",40.6091573,-74.00080559999999
+824,"Manhattan","East 49 Street & East River Drive","General Douglas MacArthur Park","Yes","2018-07-03 15:39:18.955509","2018-07-03 15:39:18.955509",40.752536,-73.9649056
+827,"Bronx","3rd Avenue, St. Paul's Place, East 170 Street","Gouverneur Playground","Yes","2018-07-03 15:39:20.148584","2018-07-03 15:39:20.148584",40.8359286,-73.9028989
+829,"Staten Island","Grandview Avenue, Continental Place","Grandview Playground","Yes","2018-07-03 15:39:20.761237","2018-07-03 15:39:20.761237",40.6302938,-74.16532
+830,"Brooklyn","18 Avenue & 56 Street","Gravesend Park","Yes","2018-07-03 15:39:21.32667","2018-07-03 15:39:21.32667",40.6243308,-73.98497680000001
+831,"Staten Island","Redgrave, Ainsworth & Durant avenues","Greencroft Playground (PS 53)","Yes","2018-07-03 15:39:21.351585","2018-07-03 15:39:21.351585",40.5520083,-74.1380009
+832,"Brooklyn","Greene & Washington avenues","Greene Playground","Yes","2018-07-03 15:39:21.380246","2018-07-03 15:39:21.380246",40.6867468,-73.9655358
+833,"Brooklyn","Fort Hamilton Parkway, Greenwood, East 5 Street","Greenwood Playground","Yes","2018-07-03 15:39:21.405639","2018-07-03 15:39:21.405639",40.6487074,-73.9767289
+834,"Bronx","East 158 Street, Caldwell Avenue, Eagle Avenue","Grove Hill Playground","Yes","2018-07-03 15:39:21.990294","2018-07-03 15:39:21.990294",40.8223113,-73.9148502
+782,"Queens","73 Avenue, 195 Street & 196 Place","Farm Playground","Yes","2018-07-03 15:39:03.969545","2018-07-03 16:17:54.083068",40.7347996,-73.7777526
+783,"Brooklyn","Troutman Street & Central Avenue","Fermi Playground","Yes","2018-07-03 15:39:04.005219","2018-07-03 16:17:54.828165",40.70029,-73.929035
+814,"Bronx","East 153 Street, Gerard Avenue, East 151 Street, Walton Avenue","Franz Sigel Park","Yes","2018-07-03 15:39:14.043252","2018-07-03 16:17:56.672562",40.8211188,-73.9274767
+815,"Queens","111 Avenue, 134 & 135 streets, Lincoln Street","Frederick B. Judge Memorial Playground","Yes","2018-07-03 15:39:14.079598","2018-07-03 16:17:57.489631",40.6843829,-73.808497
+819,"Queens","67 Avenue & 173 Street","Fresh Meadows Playground (PS 173)","Yes","2018-07-03 15:39:16.123626","2018-07-03 16:17:58.310295",40.7346227,-73.7966376
+820,"Brooklyn","Avenue L, East 4 Street, McDonald Avenue, Avenue M","Friends Field","Yes","2018-07-03 15:39:16.164574","2018-07-03 16:17:58.924041",40.61915,-73.971864
+825,"Brooklyn","Ralph Avenue & Farragut Road","Glenwood Playground","Yes","2018-07-03 15:39:19.061196","2018-07-03 16:17:59.538328",40.6374886,-73.91916549999999
+826,"Queens","30 Avenue between 84 & 85 streets","Gorman Playground","Yes","2018-07-03 15:39:19.122476","2018-07-03 16:18:00.357813",40.75965860000001,-73.9012532
+828,"Brooklyn","Wyckoff Street between Bond & Hoyt streets","Gowanus Playground","Yes","2018-07-03 15:39:20.188443","2018-07-03 16:18:00.971952",40.6845879,-73.9878571
+786,"Queens","Park Drive East & 73 Terrace","Flushing Meadows Corona Park (Albert H. Mauro Playground)","Yes","2018-07-03 15:39:05.642784","2018-07-03 16:19:39.072262",40.7230812,-73.8267229
+789,"Queens","Unisphere Fountain to pool, at Meridian Road","Flushing Meadows Corona Park (Passerelle)","Yes","2018-07-03 15:39:06.322692","2018-07-03 16:19:39.68971",40.7517801,-73.8376576
+790,"Queens","111 Street and Corona Avenue","Flushing Meadows Corona Park (Playground for All Children)","Yes","2018-07-03 15:39:06.358361","2018-07-03 16:19:40.301476",40.7408605,-73.8503053
+791,"Manhattan","35 West 134 Street","Hansborough Recreation Center","Yes","2018-07-03 15:39:06.396404","2018-07-03 16:19:40.915953",40.8128046,-73.9392198
+792,"Queens","Grand Central Parkway, Van Wyck Expressway","Flushing Meadows Corona Park (Worlds Fair Playground)","Yes","2018-07-03 15:39:06.43235","2018-07-03 16:19:41.532654",40.71864799999999,-73.79552340000001
+793,"Queens","Grand Central Parkway to 111th Street to Heckscher Children Farm to Playground for All Children","Flushing Meadows Corona Park (Zoo, Ballfields)","Yes","2018-07-03 15:39:06.467638","2018-07-03 16:19:42.137216",40.7411422,-73.8491824
+794,"Bronx","3 Avenue, East 158 Street, Brook Avenue, East 157 Street","Flynn Playground","Yes","2018-07-03 15:39:06.504589","2018-07-03 16:19:42.964212",40.8214882,-73.9121644
+795,"Queens","80 Street & Myrtle Avenue","Forest Park (Dry Harbour Playground)","Yes","2018-07-03 15:39:06.538782","2018-07-03 16:19:43.577969",40.70297,-73.86824299999999
+796,"Queens","108 Street and Park Lane South","Forest Park (Jackson Pond Playground)","Yes","2018-07-03 15:39:06.573013","2018-07-03 16:19:44.164265",40.7009165,-73.84213439999999
+799,"Queens","Park Lane South to north of tennis courts","Forest Park (Tennis Courts -Forest Parkway)","Yes","2018-07-03 15:39:08.78683","2018-07-03 16:19:45.254694",40.69742530000001,-73.85654029999999
+800,"Queens","Park Lane (to east and south) to Metropolitan Avenue","Forest Park (The Overlook)","Yes","2018-07-03 15:39:08.867911","2018-07-03 16:19:45.904891",40.708497,-73.8369578
+803,"Brooklyn","South of Myrtle Avenue to Willoughby Avenue","Fort Greene Park","Yes","2018-07-03 15:39:09.044096","2018-07-03 16:19:47.363452",40.693378,-73.9664292
+808,"Manhattan","Riverside Drive to Broadway, West 192 to Dyckman streets","Fort Tryon Park (The Cloisters)","Yes","2018-07-03 15:39:10.555974","2018-07-03 16:19:48.085072",40.8162123,-73.9620394
+809,"Manhattan","West 162 Street, east of Riverside Drive","Fort Washington Park (Lily Brown Playground)","Yes","2018-07-03 15:39:10.5928","2018-07-03 16:19:48.698737",40.8348945,-73.9377567
+802,"Queens","Woodhaven Boulevard and Forest Park Drive","Forest Park (Visitor Center, near the Carousel)","Yes","2018-07-03 15:39:08.961343","2018-07-03 16:22:17.384673",40.7007651,-73.8541218
+805,"Bronx","Stevenson Place, West 238 Street, Sedgwick Avenue","Fort Independence Playground","Yes","2018-07-03 15:39:09.127501","2018-07-03 16:22:18.000376",40.8818445,-73.89641259999999
+818,"Manhattan","7 Avenue, West 150-151 streets","Frederick Johnson Park","Yes","2018-07-03 15:39:16.087771","2018-07-03 16:22:18.614397",40.8247877,-73.93667409999999
+804,"Brooklyn","Myrtle Avenue & St. Edwards Plaza","Fort Greene Playground","Yes","2018-07-03 15:39:09.083235","2018-07-03 16:23:53.233327",40.6934392,-73.97783199999999
+835,"Queens","Rene Court, Grandview Avenue, Stanjope Street & Fairview Avenue","Grover Cleveland Park","Yes","2018-07-03 15:39:22.604961","2018-07-03 15:39:22.604961",40.712214,-73.91116199999999
+836,"Bronx","Holland Avenue, Magenta Street, Cueger Avenue","Gun Hill Playground","Yes","2018-07-03 15:39:23.219901","2018-07-03 15:39:23.219901",40.87493,-73.864975
+837,"Queens","Hillside Avenue, east of 235 Court","Gunn Park (PS 18)","No","2018-07-03 15:39:24.044119","2018-07-03 15:39:24.044119",40.7328642,-73.7321996
+839,"Queens","202 Street & Jamaica Avenue","Haggerty Park","No","2018-07-03 15:39:25.06371","2018-07-03 15:39:25.06371",40.7135359,-73.75718669999999
+840,"Queens","Hallets Cove, Vernon Boulevard","Hallets Cove Playground","Yes","2018-07-03 15:39:25.677193","2018-07-03 15:39:25.677193",40.7694206,-73.9356198
+841,"Manhattan","Between East Houston & Stanton streets","Hamilton Fish Park (Recreation Center)","Yes","2018-07-03 15:39:25.700622","2018-07-03 15:39:25.700622",40.7217267,-73.9848505
+844,"Manhattan","West 98 Street & Amsterdam Avenue","Happy Warrior Playground","Yes","2018-07-03 15:39:26.703152","2018-07-03 15:39:26.703152",40.795361,-73.969415
+845,"Queens","155 Avenue & 83 Street","Harold Schneiderman Playground (PS 232)","Yes","2018-07-03 15:39:27.315272","2018-07-03 15:39:27.315272",40.664501,-73.85088
+846,"Bronx","West 205 Street, Paul Avenue, Bedford Pk B, Goulden Avenue","Harris Park","Yes","2018-07-03 15:39:28.134593","2018-07-03 15:39:28.134593",40.8763638,-73.8919615
+847,"Brooklyn","Avenue D between East 56 & East 57 Street","Harry Maze Memorial Park","Yes","2018-07-03 15:39:29.097834","2018-07-03 15:39:29.097834",40.75924639999999,-73.96560900000001
+848,"Queens","37 Avenue, west of 69 Street","Hart Playground","Yes","2018-07-03 15:39:29.984922","2018-07-03 15:39:29.984922",40.7500477,-73.881523
+849,"Queens","15 to 20 avenues, East of Whitestone Expressway","Harvey Park","Yes","2018-07-03 15:39:30.502333","2018-07-03 15:39:30.502333",40.7812818,-73.8142024
+850,"Brooklyn","East of Marcy Street","Hattie Carthan Playground","Yes","2018-07-03 15:39:31.207141","2018-07-03 15:39:31.207141",40.6975765,-73.94964770000001
+851,"Bronx","Watson Avenue, Havenuemeyer Avenue, Cross Bronx Expressway","Havemeyer Playground","No","2018-07-03 15:39:31.697839","2018-07-03 15:39:31.697839",40.8301864,-73.8474784
+852,"Brooklyn","Grove Street to Linden Street","Heckscher Playground","Yes","2018-07-03 15:39:32.844879","2018-07-03 15:39:32.844879",40.6921914,-73.9214465
+853,"Bronx","Palisade Avenue, Kappock Street & Independence Avenue","Henry Hudson Park","Yes","2018-07-03 15:39:33.466269","2018-07-03 15:39:33.466269",40.8827947,-73.9202619
+854,"Brooklyn","Greene, Marcy, Lafayette, Tompkins avenues","Herbert Von King Park","Yes","2018-07-03 15:39:34.074281","2018-07-03 15:39:34.074281",40.688776,-73.947893
+855,"Brooklyn","Avenue V & Nostrand Avenue","Herman Dolgon Playground","Yes","2018-07-03 15:39:34.689217","2018-07-03 15:39:34.689217",40.5983108,-73.9414827
+856,"Queens","East of paved path running north from 119th Street","Hermon MacNeil Park","Yes","2018-07-03 15:39:35.302837","2018-07-03 15:39:35.302837",40.7282239,-73.7948516
+857,"Staten Island","Richmond Parkway & Moravian Cemetery at Rockland Avenue","High Rock Park","Yes","2018-07-03 15:39:35.77564","2018-07-03 15:39:35.77564",40.5803768,-74.1149813
+858,"Manhattan","West 180 Street & Amsterdam Avenue","Highbridge Park (Quisqueya Playground)","Yes","2018-07-03 15:39:35.802212","2018-07-03 15:39:35.802212",40.8474255,-73.93140350000002
+859,"Manhattan","West 155 & Dyckman streets, Edgecombe & Amsterdam avenues","Highbridge Park (Recreation Center)","Yes","2018-07-03 15:39:36.388457","2018-07-03 15:39:36.388457",40.8323449,-73.94444450000002
+860,"Manhattan","West 188 Street & Amsterdam Avenue","Highbridge Park (Wallenberg Playground)","Yes","2018-07-03 15:39:36.41056","2018-07-03 15:39:36.41056",40.8524934,-73.9277036
+861,"Manhattan","W 189 St & Amsterdam Ave","Highbridge Park-Wallenberg Playground",,"2018-07-03 15:39:37.145902","2018-07-03 15:39:37.145902",40.8531378,-73.9272439
+862,"Queens","Jackie Robinson Parkway to Highland Boulevard","Highland Park","Yes","2018-07-03 15:39:37.965146","2018-07-03 15:39:37.965146",40.6887278,-73.8862997
+863,"Queens","Hoffman Drive west of Queens Boulevard","Hoffman Park","Yes","2018-07-03 15:39:38.829156","2018-07-03 15:39:38.829156",40.7339396,-73.87392489999999
+864,"Manhattan","West 155 Street, 8 Avenue to Harlem River Drive","Holcombe Rucker","Yes","2018-07-03 15:39:39.815575","2018-07-03 15:39:39.815575",40.8322834,-73.9356577
+1166,"Brooklyn","Brooklyn Avenue & Rutland Road","Wingate Park","Yes","2018-07-03 15:41:09.92189","2018-07-03 15:41:09.92189",40.6597231,-73.94535789999999
+1168,"Queens","20 Avenue, 37 Street, 38 Street","Woodtree Playground","Yes","2018-07-03 15:41:10.946589","2018-07-03 15:41:10.946589",40.777468,-73.9030793
+730,"Brooklyn","Corbin Place to Coney Island Avenue","Coney Island Beach","Yes","2018-07-03 15:39:00.852723","2018-07-03 16:17:28.818698",40.5767514,-73.9539839
+743,"Bronx","Crotona Park North, Crotona Park South, Crotona Park East, Fulton Avenue","Crotona Park Environmental Center","Yes","2018-07-03 15:39:02.021511","2018-07-03 16:17:34.242867",40.8343445,-73.8969752
+776,"Queens","Flushing Meadows Corona Park","Ederle Comfort Station",,"2018-07-03 15:39:03.754006","2018-07-03 16:17:51.14443",40.73971359999999,-73.840785
+781,"Brooklyn","New Jersey Avenue & Vermont Street/Worthman","Ethan Allen Playground","Yes","2018-07-03 15:39:03.933534","2018-07-03 16:17:53.189596",40.6656761,-73.8932513
+788,"Queens","Long Island Expressway to Meadow Lake to Van Wyck Expressway Extension to Grand Central Parkway","Flushing Meadows Corona Park (Meadow Lake North)","Yes","2018-07-03 15:39:06.284669","2018-07-03 16:17:55.442408",40.7397155,-73.83930409999999
+838,"Bronx","Burke Avenue, Hammersley Avenue, Gunther Avenue, Ely Avenue","Haffen Park","Yes","2018-07-03 15:39:24.081996","2018-07-03 16:18:01.586318",40.8724622,-73.83998319999999
+842,"Brooklyn","Albany, East New York, Lefferts avenues","Hamilton-Metz Field","Yes","2018-07-03 15:39:25.735886","2018-07-03 16:18:02.212636",40.6624529,-73.9409419
+843,"Queens","Rockaway Beach Blvd. Bet. Beach 84 St. And Beach 81 St.","Hammel Playground",,"2018-07-03 15:39:25.769995","2018-07-03 16:18:03.020062",40.5831381,-73.8226613
+1170,"Bronx","Britton Street, Barker Avenue, Olinville Avenue","Zimmerman Playground","No","2018-07-03 15:41:11.033973","2018-07-03 16:18:03.658166",40.8666101,-73.8691575
+879,"Manhattan","West 152 Street & Bradhurst Avenue","Jackie Robinson Park (Playground One Fifty Two CLII)","Yes","2018-07-03 15:39:47.869916","2018-07-03 16:18:04.250732",40.8276846,-73.9396757
+961,"Brooklyn","Driggs to Nassau avenues, Russell to Monitor streets","Monsignor Mcgolrick Park","Yes","2018-07-03 15:39:58.870283","2018-07-03 16:18:06.706118",40.7244763,-73.9433497
+989,"Queens","Alderton Street from Dieterle to Elwell Crescents","Painters Playground (PS 174)","Yes","2018-07-03 15:40:03.770735","2018-07-03 16:18:07.529373",40.720444,-73.8601003
+1032,"Brooklyn","Otsego, Bay, Hicks, Lorraine, Court, Halleck streets","Red Hook Park","No","2018-07-03 15:40:13.927601","2018-07-03 16:18:12.847614",40.687315,-73.99963799999999
+1093,"Staten Island","Quintard St Bet. Quincy Ave & Father Capodanno Blvd","South Beach Wetlands",,"2018-07-03 15:40:47.339778","2018-07-03 16:18:15.103658",42.240648,-70.988336
+586,"Brooklyn","Glenwood Road, East 100 & East 101 streets","100% Playground","Yes","2018-07-03 15:38:17.754526","2018-07-03 16:18:16.764415",40.6465901,-73.8990554
+1139,"Bronx","Broadway and West 254th Street","Van Cortlandt Park (Stables Area)","Yes","2018-07-03 15:41:05.461874","2018-07-03 16:18:19.81535",40.90106189999999,-73.8969263
+1161,"Bronx","Reservoir Oval East, Reservoir Oval West, Reservoir Place, Putnam Place, Bainbridge Avenue, Wayne Avenue, Tryon Avenue, Holt Place, Van Cortlandt Avenue","Williamsbridge Oval","Yes","2018-07-03 15:41:08.537474","2018-07-03 16:18:28.62436",40.8768269,-73.8762631
+761,"Brooklyn","Mother Gaston Boulevard (Stone Avenue) & Sutter avenues","Dr. Richard Greene Playground","Yes","2018-07-03 15:39:03.214123","2018-07-03 16:19:34.361813",40.6644738,-73.90517480000001
+801,"Queens","Long Island Railroad to Woodhaven Boulevard. to Myrtle Avenue to 96th Street","Forest Park (Victory Field)","Yes","2018-07-03 15:39:08.912947","2018-07-03 16:19:46.413652",40.699736,-73.9096327
+1165,"Staten Island","Richmond Avenue To Victory Boulevard","Willowbrook Park","Yes","2018-07-03 15:41:09.204885","2018-07-03 16:19:50.336954",40.6084177,-74.164271
+1169,"Brooklyn","Avenue Y between Coyle & Batchelder streets","Yak Playground","Yes","2018-07-03 15:41:10.985872","2018-07-03 16:19:50.834223",40.5926079,-73.936466
+1167,"Brooklyn","Bergen Street & Utica Avenue","Woods Playground","Yes","2018-07-03 15:41:09.969401","2018-07-03 16:23:53.850109",40.67504479999999,-73.9305402
+865,"Queens","205 Street & Hollis Avenue","Hollis Playground (JHS 192)","No","2018-07-03 15:39:40.429695","2018-07-03 15:39:40.429695",40.7069274,-73.7530009
+867,"Queens","Manton Street & 83 Avenue","Hoover Playground","Yes","2018-07-03 15:39:41.039467","2018-07-03 15:39:41.039467",40.7125497,-73.8210617
+868,"Queens","62 Drive between 97 Place & 98 Street","Horace Harding Playground (PS 206)","Yes","2018-07-03 15:39:41.651506","2018-07-03 15:39:41.651506",40.748931,-73.8672459
+869,"Bronx","Hall Place, Rogers Place, East 165 Street","Horseshoe Playground","Yes","2018-07-03 15:39:42.471139","2018-07-03 15:39:42.471139",40.8238909,-73.8973701
+870,"Manhattan","West 135 to West 136 streets, Lenox to 5 avenues","Howard Bennett Playground","Yes","2018-07-03 15:39:43.288453","2018-07-03 15:39:43.288453",40.8148512,-73.9411318
+872,"Manhattan","Gaelic Field and Area around Salt Marsh West of Indian Road (at 218th Street)","Inwood Hill Park (Nature Center)","Yes","2018-07-03 15:39:44.312174","2018-07-03 15:39:44.312174",40.8722007,-73.9255549
+873,"Manhattan","Payson & Dyckman streets","Inwood Hill Park (Payson Playground)","Yes","2018-07-03 15:39:44.929142","2018-07-03 15:39:44.929142",40.8667472,-73.9287258
+874,"Manhattan","Tennis courts & ballfields along Seaman Avenue from 207th Street to 214th Street","Inwood Hill Park (Tennis Courts)","Yes","2018-07-03 15:39:45.54294","2018-07-03 15:39:45.54294",40.8248451,-73.93561170000001
+875,"Manhattan","Ft. Washington & Haven avenues, West 173 Street","J. Hood Wright Park","Yes","2018-07-03 15:39:46.362709","2018-07-03 15:39:46.362709",40.84213949999999,-73.9422811
+876,"Brooklyn","3 to 4 streets, 4 to 5 avenues","J.J. Byrne Memorial Park","Yes","2018-07-03 15:39:47.185409","2018-07-03 15:39:47.185409",40.5781762,-73.9733748
+877,"Brooklyn","Malcolm X Boulevard between Chauncey and Marion streets","Jackie Robinson Park","Yes","2018-07-03 15:39:47.79569","2018-07-03 15:39:47.79569",40.6801869,-73.928016
+881,"Brooklyn","Sullivan Place & Franklin Avenue, Montgomery Street","Jackie Robinson Playground","Yes","2018-07-03 15:39:48.679125","2018-07-03 15:39:48.679125",40.6662639,-73.95955959999999
+883,"Manhattan","Hudson, Leroy, Clarkson Streets, 7 Avenue","James J. Walker Park (Carmine Recreation Center)","Yes","2018-07-03 15:39:49.899783","2018-07-03 15:39:49.899783",40.7294095,-74.0051838
+887,"Manhattan","East 76-East 78 streets & Cherokee Place","John Jay Park & Pool","Yes","2018-07-03 15:39:51.278233","2018-07-03 15:39:51.278233",40.7700931,-73.949452
+889,"Staten Island","Joline Avenue, Hylan Boulevard","Joline Pool Playground (Modular Equipment)","No","2018-07-03 15:39:51.339753","2018-07-03 15:39:51.339753",40.50621,-74.2348592
+891,"Queens","65 Place & Catalpa Avenue & 68 Avenue","Joseph F. Mafera Park","Yes","2018-07-03 15:39:52.096452","2018-07-03 15:39:52.096452",40.7050747,-73.89125469999999
+892,"Bronx","Lafayette Avenue, Manda Street","Julio Carballo Field","Yes","2018-07-03 15:39:52.11759","2018-07-03 15:39:52.11759",40.8165326,-73.8889591
+896,"Brooklyn","South of Gravesend Bay, southeast of Path, northeast of Neptune Avenue","Kaiser Park","Yes","2018-07-03 15:39:52.753166","2018-07-03 15:39:52.753166",40.6090542,-73.9864253
+901,"Queens","Oak Avenue, 104th Street, & Kissena Lake Area","Kissena Park","Yes","2018-07-03 15:39:53.529039","2018-07-03 15:39:53.529039",40.7506548,-73.862104
+902,"Queens","Rose & Oak avenues","Kissena Park (Tennis Courts)","Yes","2018-07-03 15:39:54.148302","2018-07-03 15:39:54.148302",40.7480979,-73.8097785
+904,"Queens","39 Drive & 54 Street","Lawerence Virgilio Playground","Yes","2018-07-03 15:39:54.334819","2018-07-03 15:39:54.334819",40.7468643,-73.90967429999999
+907,"Queens","173rd Street and 106th Avenue","Liberty Pool",,"2018-07-03 15:39:54.458944","2018-07-03 15:39:54.458944",40.7020409,-73.78312540000002
+908,"Brooklyn","Buffalo Avenue/Protal Street/New York Avenue","Lincoln Terrace Park","Yes","2018-07-03 15:39:55.168775","2018-07-03 15:39:55.168775",40.66722439999999,-73.9224614
+909,"Brooklyn","East New York, Rochester avenues, Eastern Parkway,Buffalo Avenue","Lincoln Terrace Park (Arthur S. Somers Playground)","Yes","2018-07-03 15:39:55.190502","2018-07-03 15:39:55.190502",40.6685481,-73.92558220000001
+910,"Brooklyn","Stanley Avenue, Linden Boulevard","Linden Park","Yes","2018-07-03 15:39:55.211711","2018-07-03 15:39:55.211711",40.6617122,-73.878428
+911,"Queens","104 Street & 41 Avenue","Linden Park","Yes","2018-07-03 15:39:55.23198","2018-07-03 15:39:55.23198",40.749148,-73.861325
+913,"Manhattan","Madison Street opposite Jefferson Street","Little Flower Playground","No","2018-07-03 15:39:55.288631","2018-07-03 15:39:55.288631",40.7785833,-73.9604646
+914,"Queens","88 Street, Atlantic-95 avenues","London Planetree Playground","Yes","2018-07-03 15:39:55.308191","2018-07-03 15:39:55.308191",40.6866083,-73.8539644
+915,"Bronx","Morris Park Avenue, Haight Avenue, Tomlinson Avenue, Van Nest Avenue","Loreto Park Playground","Yes","2018-07-03 15:39:55.329339","2018-07-03 15:39:55.329339",40.848601,-73.851218
+916,"Queens","North Conduit & 149 Avenue","Loring Field","Yes","2018-07-03 15:39:55.349102","2018-07-03 15:39:55.349102",40.6701714,-73.8459379
+917,"Queens","Queens Boulevard between 62 Avenue & 62 Road","Lost Battalion Hall","Yes","2018-07-03 15:39:55.368874","2018-07-03 15:39:55.368874",40.7343236,-73.8554623
+918,"Queens","Skillman Avenue & 43 Street","Lou Lodati Playground","Yes","2018-07-03 15:39:55.390113","2018-07-03 15:39:55.390113",40.7468885,-73.92080659999999
+882,"Manhattan","Amsterdam Avenue, West 136 Street","Jacob Schiff Playground (PS 192)","Yes","2018-07-03 15:39:48.773599","2018-07-03 16:18:05.067604",40.8195852,-73.9517529
+866,"Queens","Peck Avenue & Harding Boulevard","Holy Cow Playground (PS 179)","No","2018-07-03 15:39:40.483613","2018-07-03 16:19:51.375995",40.7433578,-73.7847601
+871,"Bronx","Spofford Avenue, Hunts Point Avenue, Faile Street","Hunts Point Playground","Yes","2018-07-03 15:39:43.326662","2018-07-03 16:19:51.975055",40.8151166,-73.88649389999999
+878,"Manhattan","West 149 Street & Bradhurst Avenue","Jackie Robinson Park","Yes","2018-07-03 15:39:47.833502","2018-07-03 16:19:52.590024",40.8257929,-73.9410556
+884,"Brooklyn","Stuyvesant & Lafayette avenues","Jesse Owens Playground","Yes","2018-07-03 15:39:50.010159","2018-07-03 16:19:53.203709",40.6918995,-73.9338283
+885,"Queens","215 Place, south of 32 Avenue","John Golden Park","No","2018-07-03 15:39:50.319882","2018-07-03 16:19:54.023323",40.7229774,-73.74475679999999
+886,"Brooklyn","Fort Hamilton Parkway, 94-95 streets","John J. Carty Park","Yes","2018-07-03 15:39:50.406754","2018-07-03 16:19:54.842766",40.61484859999999,-74.0293724
+895,"Queens","Liberty Avenue, 172-173 streets","K.L. Williams Playground (Tennis)","Yes","2018-07-03 15:39:52.231176","2018-07-03 16:19:55.666729",40.7046003,-73.7854301
+897,"Queens","Yellowstone Boulevard between 68 Avenue & 68 Road","Katzman Playground","Yes","2018-07-03 15:39:52.788769","2018-07-03 16:19:56.480317",40.7263749,-73.8476036
+912,"Brooklyn","Mill & Strickland avenues, 60 Street","Lindower Park","Yes","2018-07-03 15:39:55.268914","2018-07-03 16:19:57.299776",40.6081842,-73.9154939
+899,"Queens","Corp. Kennedy Street & 33 Avenue","Kennedy Playground","Yes","2018-07-03 15:39:52.860856","2018-07-03 16:22:20.106482",40.7706178,-73.77970789999999
+905,"Brooklyn","CLF behind CS adjacent to 5th Avenue to 7th Avenue(Highway) between 66th and 67th Street","Leif Ericson Park & Square","Yes","2018-07-03 15:39:54.392631","2018-07-03 16:22:20.866869",40.7314123,-73.99698479999999
+906,"Staten Island","Jewett & Castleton avenues","Levy Playground","Yes","2018-07-03 15:39:54.440052","2018-07-03 16:22:21.432635",40.6336745,-74.12943969999999
+890,"Queens","Grand Central Parkway & 164 Place","Joseph Austin Playground","Yes","2018-07-03 15:39:51.377577","2018-07-03 16:23:54.798432",40.7162769,-73.8018355
+898,"Brooklyn","East 93 Street & Lenox Road","Kennedy King Playground","Yes","2018-07-03 15:39:52.826479","2018-07-03 16:23:55.48523",40.6574779,-73.9214116
+903,"Brooklyn","Havemeyer, Roebling streets & South 4","La Guardia Playground West","Yes","2018-07-03 15:39:54.2144","2018-07-03 16:23:56.103826",40.7107912,-73.95993349999999
+894,"Queens","62nd Avenue & 80th Street","Juniper Valley Park (North Playground Tennis)","Yes","2018-07-03 15:39:52.190311","2018-07-03 16:24:59.18071",40.723101,-73.877674
+900,"Queens","Peck Avenue & 188 Street","Kissena Corridor East (Underhill Playground)","Yes","2018-07-03 15:39:52.894555","2018-07-03 16:24:59.998303",40.7444175,-73.7883736
+880,"Manhattan","Bradhurst & Edgecombe avenues,West 145 to West 155 streets","Jackie Robinson Park (Recreation Center)","Yes","2018-07-03 15:39:47.904818","2018-07-03 16:26:28.970021",40.82146789999999,-73.944604
+888,"Brooklyn","Shore Parkway, Fort Hamilton Parkway, 101 Street","John Paul Jones Park","Yes","2018-07-03 15:39:51.317838","2018-07-03 16:26:29.70222",40.6111541,-74.0325498
+919,"Queens","37 Avenue between 112 & 113 streets","Louis Armstrong Playground (PS 143)","No","2018-07-03 15:39:55.409512","2018-07-03 15:39:55.409512",40.72895949999999,-73.8423806
+921,"Bronx","East 135 Street, Willis Avenue, Alexander Avenue","Lozada Playground","Yes","2018-07-03 15:39:55.468925","2018-07-03 15:39:55.468925",40.8072378,-73.924356
+922,"Brooklyn","West 12 Street & Surf Avenue","Luna Park Playground","Yes","2018-07-03 15:39:55.489611","2018-07-03 15:39:55.489611",40.5755253,-73.9796509
+923,"Staten Island","Pier 6, Victory Boulevard","Lyons Pool","No","2018-07-03 15:39:55.507018","2018-07-03 15:39:55.507018",40.6380353,-74.0738662
+924,"Bronx","East 161th Street & Ruppert Place","Macombs Dam Park","Yes","2018-07-03 15:39:55.525508","2018-07-03 15:39:55.525508",40.8245117,-73.91487479999999
+925,"Bronx","Olinville Avenue, Rosewood Street","Magenta Playground","Yes","2018-07-03 15:39:55.544214","2018-07-03 15:39:55.544214",40.873235,-73.868208
+926,"Staten Island","Beechwood & Cleveland avenues","Mahoney Playground","Yes","2018-07-03 15:39:55.564686","2018-07-03 15:39:55.564686",40.6440795,-74.0856941
+927,"Bronx","East 180 Street, Mapes & Prospect avenues","Mapes Pool","Yes","2018-07-03 15:39:55.582915","2018-07-03 15:39:55.582915",40.8465742,-73.8855775
+928,"Queens","Kissena Boulevard & Maple Avenue","Maple Playground","No","2018-07-03 15:39:55.601014","2018-07-03 15:39:55.601014",40.7563615,-73.8258127
+929,"Bronx","Marble Hill Avenue, West 230 Street, West 228 Street","Marble Hill Playground","No","2018-07-03 15:39:55.619545","2018-07-03 15:39:55.619545",40.87770709999999,-73.90740670000001
+930,"Queens","109 Avenue & 155 Street","Marconi Park","Yes","2018-07-03 15:39:55.639218","2018-07-03 15:39:55.639218",40.692483,-73.79598399999999
+931,"Brooklyn","Sterling Street & Empire Boulevard","Marc's & Jason's Playground","Yes","2018-07-03 15:39:55.659623","2018-07-03 15:39:55.659623",40.6632864,-73.951043
+932,"Manhattan","18 Mount Morris Park West","Marcus Garvey Park (Pelham Fritz Recreation Center)","Yes","2018-07-03 15:39:55.678191","2018-07-03 15:39:55.678191",40.80500929999999,-73.9448633
+933,"Manhattan","Madison Avenue, East 120 to East 124 streets","Marcus Garvey Park (Pool)","No","2018-07-03 15:39:55.698405","2018-07-03 15:39:55.698405",40.802546,-73.9430016
+934,"Brooklyn","Knickerbocker to Irving avenues, Starr to Suydam Streets","Maria Hernandez Park","Yes","2018-07-03 15:39:55.718321","2018-07-03 15:39:55.718321",40.703177,-73.923904
+935,"Queens","211 & Oceana streets, 46 Avenue","Marie Curie Park (JHS 158)","Yes","2018-07-03 15:39:55.738563","2018-07-03 15:39:55.738563",40.753812,-73.7854526
+936,"Brooklyn","Burnett Street between Avenue U and Avenue X/west of East 33rd Street","Marine Park","Yes","2018-07-03 15:39:56.606396","2018-07-03 15:39:56.606396",40.6003204,-73.930928
+937,"Brooklyn","East 33rd Street and Avenue U","Marine Park Nature Center",,"2018-07-03 15:39:56.630616","2018-07-03 15:39:56.630616",40.6050643,-73.9298664
+938,"Brooklyn","Hopkinson Avenue & Marion Street","Marion-Hopkinson Playground","Yes","2018-07-03 15:39:56.656292","2018-07-03 15:39:56.656292",40.6814134,-73.9141835
+939,"Staten Island","Willowbrook Parkway, Forest Avenue & Houston Street","Markham Playground","Yes","2018-07-03 15:39:56.675293","2018-07-03 15:39:56.675293",40.6250017,-74.1440452
+940,"Manhattan","Lenox Avenue, West 113 to West 114 streets","Martin Luther King Houses","Yes","2018-07-03 15:39:56.694793","2018-07-03 15:39:56.694793",40.8016724,-73.95540710000002
+941,"Brooklyn","Scholes Street, Graham Avenue","Martinez Playground","Yes","2018-07-03 15:39:57.421035","2018-07-03 15:39:57.421035",40.70878099999999,-73.94344
+942,"Bronx","Delancy Place, Muliner Avenue, Matthews Avenue","Mathew Muliner Playground","Yes","2018-07-03 15:39:57.439747","2018-07-03 15:39:57.439747",40.8472985,-73.86114839999999
+945,"Manhattan","West 45 Street between 9 & 10 avenues","May Matthews Playground","Yes","2018-07-03 15:39:57.540255","2018-07-03 15:39:57.540255",40.75594359999999,-73.9801871
+946,"Bronx","Mace Avenue, Williamsbridge Road","Mazzei Playground","Yes","2018-07-03 15:39:57.562766","2018-07-03 15:39:57.562766",40.8630438,-73.8580616
+948,"Brooklyn","12th Street/Driggs Avenue/Lorimer Street/Bedford Avenue","McCarren Park","Yes","2018-07-03 15:39:57.618417","2018-07-03 15:39:57.618417",40.7235178,-73.9516661
+949,"Brooklyn","Mcdonald Avenue, between avenues S & T","McDonald Playground","Yes","2018-07-03 15:39:57.639036","2018-07-03 15:39:57.639036",40.6224254,-73.97557189999999
+950,"Staten Island","Forest Avenue, Myrtle Avenue between Broadway & Burgher","McDonald Playground","Yes","2018-07-03 15:39:57.659499","2018-07-03 15:39:57.659499",40.6297104,-74.115174
+951,"Brooklyn","Fort Hamilton Parkway, 73 to 78 streets, 7 Avenue","McKinley Park","Yes","2018-07-03 15:39:57.680023","2018-07-03 15:39:57.680023",40.631038,-74.0160382
+954,"Brooklyn","Avenue V between East 13 & East 14 streets","Mellett Playground","Yes","2018-07-03 15:39:58.650237","2018-07-03 15:39:58.650237",40.60742339999999,-73.9599144
+955,"Brooklyn","Southeast corner of Bedford & Metropolitan avenues","Metropolitan Pool","Yes","2018-07-03 15:39:58.670247","2018-07-03 15:39:58.670247",40.7153113,-73.9604365
+957,"Staten Island","Natural Area and Boardwalk from Sands Lane to Vulcan Street, East of Father Capodanno Boulevard","Midland Beach & Boardwalk","Yes","2018-07-03 15:39:58.728007","2018-07-03 15:39:58.728007",40.5898167,-74.0765366
+962,"Queens","Springfield Boulevard & 139 Avenue","Montbellier Park","No","2018-07-03 15:39:58.888337","2018-07-03 15:39:58.888337",40.6733699,-73.7562488
+963,"Manhattan","West 123 Street & Morningside Avenue","Morningside Park","Yes","2018-07-03 15:39:59.674147","2018-07-03 15:39:59.674147",40.8100823,-73.9549741
+964,"Manhattan","Athletic Fields and Lawns from 114th Street to 110th Street along Manhattan Avenue, East of Upper Path","Morningside Park","Yes","2018-07-03 15:39:59.696766","2018-07-03 15:39:59.696766",40.7988378,-73.9538699
+966,"Bronx","Mosholu Pkwy, Bainbridge Avenue, Briggs Avenue","Mosholu Playground (PS 8)","Yes","2018-07-03 15:39:59.748521","2018-07-03 15:39:59.748521",40.8723363,-73.88174839999999
+968,"Manhattan","West 204 Street & Nagle Avenue","Msgnr. Kett","Yes","2018-07-03 15:39:59.808074","2018-07-03 15:39:59.808074",40.863132,-73.9206317
+969,"Brooklyn","Eastern Parkway, Underhill Avenue","Mt. Prospect Park","Yes","2018-07-03 15:39:59.826316","2018-07-03 15:39:59.826316",40.6729124,-73.9675413
+970,"Bronx","East 164 Street, Jerome Avenue, Macombs Dam Bridge, East 162 Street, River Avenue","Mullaly Park (Skate Building)","Yes","2018-07-03 15:39:59.845955","2018-07-03 15:39:59.845955",40.8280969,-73.9335143
+971,"Queens","21 Street, 45 Avenue, 11 Street, 45 Road","Murray Playground","No","2018-07-03 15:40:00.698777","2018-07-03 15:40:00.698777",40.7482901,-73.9512811
+972,"Queens","Merrick & Baisley boulevards","Nautilus Playground","Yes","2018-07-03 15:40:00.719501","2018-07-03 15:40:00.719501",40.6838216,-73.7697354
+920,"Queens","248 Street & 51 Avenue","Louis Pasteur Park","Yes","2018-07-03 15:39:55.444029","2018-07-03 16:22:22.095498",40.7620682,-73.73607539999999
+944,"Queens","Maurice, Borden, 54 avenues, 63 Street","Maurice Park","Yes","2018-07-03 15:39:57.510099","2018-07-03 16:22:22.674756",40.727211,-73.9074165
+947,"Manhattan","West 43 Street, 8 & 9 avenues","McCaffrey Playground","Yes","2018-07-03 15:39:57.595137","2018-07-03 16:22:23.324157",40.7520799,-73.9918474
+952,"Manhattan","Avenue A, East 3-East 4 streets","McKinley Playground","No","2018-07-03 15:39:57.716214","2018-07-03 16:22:24.14342",40.7236548,-73.9852944
+953,"Brooklyn","Tillary Street, Jay Street, Cathedral Place, Bridge Street","McLaughlin Park","Yes","2018-07-03 15:39:57.752282","2018-07-03 16:22:24.962795",40.6960476,-73.9871132
+956,"Queens","Beach Channel Drive, B 32 Street, Dwight Avenue, Norton Avenue","Michaelis-Bayswater Park","Yes","2018-07-03 15:39:58.7061","2018-07-03 16:22:25.782228",40.5889257,-73.8164927
+958,"Staten Island","Midland Avenue & Mason Avenue","Midland Field",,"2018-07-03 15:39:58.768968","2018-07-03 16:22:26.396104",40.5747762,-74.097614
+960,"Bronx","East 135 Street, Cypress Avenue","Millbrook Playground","Yes","2018-07-03 15:39:58.836906","2018-07-03 16:22:27.010304",40.8037052,-73.9158534
+965,"Manhattan","West 117 Street & Morningside Avenue","Morningside Playground","Yes","2018-07-03 15:39:59.728031","2018-07-03 16:22:27.625333",40.8063054,-73.9577164
+967,"Bronx","Morris Avenue, College Avenue, Mc Clellan Street","Mott Playground","Yes","2018-07-03 15:39:59.78761","2018-07-03 16:22:28.23957",40.8206166,-73.9215734
+959,"Staten Island","Lincoln & Mason avenues","Midland Playground","Yes","2018-07-03 15:39:58.80321","2018-07-03 16:23:56.713956",40.5740084,-74.09855270000001
+943,"Queens","Atlantic Avenue & 106 Street","Maurice A. Fitzgerald Playground","Yes","2018-07-03 15:39:57.470672","2018-07-03 16:25:00.817417",40.6907826,-73.83926939999999
+973,"Bronx","West 166 Street, Nelson Avenue, Woodycrest Avenue","Nelson Playground","Yes","2018-07-03 15:40:00.73648","2018-07-03 15:40:00.73648",40.835353,-73.9269932
+975,"Bronx","Nobel Avenue, Bronx River Avenue, Bronx River Parkway, Cross Bronx Expressway","Noble Playground","No","2018-07-03 15:40:00.790138","2018-07-03 15:40:00.790138",40.8381733,-73.8717568
+976,"Queens","Greenpoint & 47 avenues, 43 Street","Noonan Playground","Yes","2018-07-03 15:40:01.722196","2018-07-03 15:40:01.722196",40.7407948,-73.92168819999999
+978,"Brooklyn","Nostrand & Foster avenues","Nostrand Playground","Yes","2018-07-03 15:40:02.345229","2018-07-03 15:40:02.345229",40.6386056,-73.94827459999999
+979,"Brooklyn","Bergen Street, Rockaway Avenue, Dean Street","Ocean Hill Playground","Yes","2018-07-03 15:40:02.381912","2018-07-03 15:40:02.381912",40.673976,-73.9111547
+980,"Staten Island","Parkinson Avenue, Kramer Street","Old Town Playground","Yes","2018-07-03 15:40:02.954963","2018-07-03 15:40:02.954963",40.5956646,-74.0821552
+981,"Brooklyn","Adelphi & Myrtle avenues","Oracle Playground","Yes","2018-07-03 15:40:02.976923","2018-07-03 15:40:02.976923",40.69321,-73.97187199999999
+983,"Manhattan","West 156 Street & St. Nicholas Avenue","Orville & Wilbur Playground","Yes","2018-07-03 15:40:03.038533","2018-07-03 15:40:03.038533",40.833409,-73.9452517
+984,"Brooklyn","Linden Boulevard & Osborn Street","Osborn Playground","Yes","2018-07-03 15:40:03.05651","2018-07-03 15:40:03.05651",40.6551671,-73.9050949
+987,"Bronx","Turnbull Avenue, Olmstead Avenue, Lafayette Avenue","P.O. Serrano Playground","Yes","2018-07-03 15:40:03.685086","2018-07-03 15:40:03.685086",40.8235982,-73.8522496
+991,"Bronx","Arnow Avenue, Adee Avenue, Olinville Avenue","Parkside Playground","Yes","2018-07-03 15:40:04.181323","2018-07-03 15:40:04.181323",40.8696847,-73.8682359
+992,"Brooklyn","Parkside, Bedford & Rogers avenues","Parkside Playground","Yes","2018-07-03 15:40:04.794773","2018-07-03 15:40:04.794773",40.6558782,-73.9563805
+993,"Brooklyn","Falmouth Street & Oriental Avenue","Pat Perlato Playground","Yes","2018-07-03 15:40:05.408479","2018-07-03 15:40:05.408479",40.5776468,-73.9463038
+995,"Bronx","Bruckner Expressway & Buhre Avenue","Pelham Bay Park (Playground for All Children)","Yes","2018-07-03 15:40:06.023468","2018-07-03 15:40:06.023468",40.8486291,-73.8279754
+1000,"Brooklyn","Stanley Avenue & Eldert Lane","Pink Playground","Yes","2018-07-03 15:40:06.842687","2018-07-03 15:40:06.842687",40.6662459,-73.8620298
+1002,"Manhattan","West End Avenue & West 70 Street","Playground 70","Yes","2018-07-03 15:40:07.662325","2018-07-03 15:40:07.662325",40.7784813,-73.9854507
+1003,"Queens","Northern Boulevard & 90 Street","Playground 90/PS 148 Playground","Yes","2018-07-03 15:40:08.276063","2018-07-03 15:40:08.276063",40.7563822,-73.8779457
+1004,"Bronx","Kelly Street, St. John's Avenue, Beck Street","Playground Fifty-Two","Yes","2018-07-03 15:40:08.938151","2018-07-03 15:40:08.938151",40.8196378,-73.89648910000001
+1008,"Manhattan","East 109 Street between 2 & 3 avenues","Poor Richard's Playground","Yes","2018-07-03 15:40:10.334858","2018-07-03 15:40:10.334858",40.795767,-73.949225
+1014,"Brooklyn","Picnic House","Prospect Park (Middle Long Meadow)","Yes","2018-07-03 15:40:11.936965","2018-07-03 15:40:11.936965",40.6655603,-73.971575
+1015,"Brooklyn","Prospect Park West/7th Street/15th Street","Prospect Park (The Bandshell)","Yes","2018-07-03 15:40:12.539363","2018-07-03 15:40:12.539363",40.663284,-73.98459100000001
+1023,"Bronx","Quarry Road, East 181 Street, Oak Place & Hughes Avenue","Quarry Ballfields","No","2018-07-03 15:40:13.604837","2018-07-03 15:40:13.604837",40.8511382,-73.8928164
+1013,"Brooklyn","Prospect Park West/3rd Street/7th Street","Prospect Park (Litchfield Villa)","Yes","2018-07-03 15:40:11.384061","2018-07-03 16:18:08.754241",40.6682162,-73.973828
+1019,"Brooklyn","46 & 47 streets, 3 Avenue","PS 1 Playground","Yes","2018-07-03 15:40:12.685543","2018-07-03 16:18:09.778838",40.651232,-73.978578
+1020,"Manhattan","East 117 to East 118 streets, 1 to 2 avenues","PS 155 Playground","Yes","2018-07-03 15:40:12.721733","2018-07-03 16:18:10.597754",40.801923,-73.94512929999999
+1025,"Queens","21 Street, Bridge Plaza, Vernon Boulevard, East River","Queensbridge Park","Yes","2018-07-03 15:40:13.681314","2018-07-03 16:18:11.417412",40.7571694,-73.9465103
+1027,"Bronx","Dawson Street, Beck Street, Kelly Street, Intervale Avenue, Longwood Avenue","Rainey Park","No","2018-07-03 15:40:13.753949","2018-07-03 16:18:12.12686",40.816104,-73.896435
+997,"Queens","183 Place & Henderson Avenue","Peter's Field","Yes","2018-07-03 15:40:06.102246","2018-07-03 16:19:58.733848",40.7068561,-73.7740723
+1001,"Queens","Yellowstone Boulevard between 62 Avenue & 62 Road","Playground 62 (PS 220)","Yes","2018-07-03 15:40:06.877842","2018-07-03 16:19:59.558692",40.7343236,-73.8554623
+1006,"Queens","160 Street & 75 Avenue","Playground Seventy-Five (PS 154)","Yes","2018-07-03 15:40:09.318299","2018-07-03 16:20:00.166853",40.7267105,-73.8086853
+1007,"Brooklyn","Madison Street & Patchen Avenue","Police Officer Reinaldo Salgado Playground","Yes","2018-07-03 15:40:09.416322","2018-07-03 16:20:00.781295",40.6874321,-73.9269628
+1009,"Brooklyn","Tompkins Avenue & Halsey Street","Potomac Playground","Yes","2018-07-03 15:40:10.508575","2018-07-03 16:20:01.395718",40.6825139,-73.94374499999999
+1022,"Brooklyn","Throop, Park, Mytrle avenues","PS 59 Sumner Playground","Yes","2018-07-03 15:40:12.789963","2018-07-03 16:20:02.624872",40.696031,-73.94352599999999
+1024,"Queens","Little Neck Parkway, Commonwealth Boulevard, south of Grand Central Parkway","Queens Farm Museum","Yes","2018-07-03 15:40:13.645799","2018-07-03 16:20:03.451131",40.7505514,-73.7284181
+977,"Queens","Baisley Boulevard & Bedell Street","North Rochdale Playground (PS 30)","Yes","2018-07-03 15:40:01.757619","2018-07-03 16:22:28.853765",40.6804559,-73.77464309999999
+982,"Bronx","Bruckner Boulevard, Eastchester Bay, Hutchinson","Orchard Beach Pavilion","No","2018-07-03 15:40:03.014048","2018-07-03 16:22:29.471552",40.852539,-73.839373
+985,"Bronx","Westchester Avenue, Lane Avenue, East Tremont Avenue","Owen Dolen Recreation Center","Yes","2018-07-03 15:40:03.092198","2018-07-03 16:22:30.082659",40.8406328,-73.8420053
+986,"Queens","102 Street & Liberty Avenue","P.O. Nicholas Demutis Playground","Yes","2018-07-03 15:40:03.129657","2018-07-03 16:22:30.696813",40.68143630000001,-73.8386586
+988,"Brooklyn","Foster Avenue, East 40-41 streets","Paerdegat Park","Yes","2018-07-03 15:40:03.723313","2018-07-03 16:22:31.312227",40.6392006,-73.9387295
+990,"Brooklyn","Berkeley Street & Lincoln Place","Park Slope Playground","Yes","2018-07-03 15:40:03.816884","2018-07-03 16:22:31.92585",40.6756927,-73.97372829999999
+994,"Brooklyn","Avenue L, East 17 to East 18 streets","Paul W. Kolbert Park/Rachel Haber Cohen Playground","Yes","2018-07-03 15:40:05.445472","2018-07-03 16:22:32.700874",40.620606,-73.9586009
+996,"Bronx","Brook Avenue, East 141 Street","People's Park Playground","Yes","2018-07-03 15:40:06.068666","2018-07-03 16:22:33.370832",40.80957859999999,-73.9180595
+998,"Brooklyn","Nostrand Avenue & Marine Parkway","PFC Thomas Norton Memorial Playground","Yes","2018-07-03 15:40:06.140922","2018-07-03 16:22:34.178931",40.6147979,-73.9445719
+1005,"Manhattan","2 Avenue, East 96 to East 97 streets","Playground Ninety Six (XCVI)","Yes","2018-07-03 15:40:09.080732","2018-07-03 16:22:35.61262",40.7856733,-73.9495341
+1010,"Brooklyn","Willoughby Avenue, Emerson Place","Pratt Playground","Yes","2018-07-03 15:40:11.026438","2018-07-03 16:22:36.227553",40.6923173,-73.9618982
+1011,"Staten Island","Hylan Boulevard & Huguenot Avenue","Prescott Playground","Yes","2018-07-03 15:40:11.131648","2018-07-03 16:22:37.046257",40.5240461,-74.1861328
+1018,"Brooklyn","Prospect Lake/East Lake Drive/south of Breeze Hill/Parking Lot","Prospect Park (Wollman Rink & Flower Garden)",,"2018-07-03 15:40:12.65062","2018-07-03 16:22:38.6842",40.6572752,-73.96416110000001
+1021,"Brooklyn","Avenue Y, between Brown & Haring streets","PS 286 Playground","Yes","2018-07-03 15:40:12.756514","2018-07-03 16:22:39.299285",40.594024,-73.938717
+1026,"Brooklyn","Ditmas Avenue between East 91 & East 92 streets","Railroad Playground","Yes","2018-07-03 15:40:13.715728","2018-07-03 16:22:39.913025",40.6478619,-73.9151302
+1028,"Queens","Vernon Boulevard, 33 Road, 34 Street, East River","Rainey Park","Yes","2018-07-03 15:40:13.788949","2018-07-03 16:22:40.733361",40.7668297,-73.9386347
+974,"Brooklyn","Newport Avenue & Osborn Street","Newport Playground","Yes","2018-07-03 15:40:00.771447","2018-07-03 16:26:30.316581",40.660832,-73.9071034
+999,"Brooklyn","Furman Street, Pierrepont Place","Pierrepont Playground","Yes","2018-07-03 15:40:06.183224","2018-07-03 16:26:30.930771",40.6961936,-73.9975036
+1017,"Brooklyn","Lincoln Road/Ocean Avenue/Willink Entrance/East Lake Drive","Prospect Park (Willink Hill)","Yes","2018-07-03 15:40:12.613019","2018-07-03 16:26:31.545727",40.6605152,-73.9628091
+1036,"Manhattan","West 144 Street, between 7 & 8 avenues","Renaissance Playground","Yes","2018-07-03 15:40:14.829236","2018-07-03 15:40:14.829236",40.8221132,-73.94176949999999
+1037,"Bronx","Rev. James Polite Avenue, Intervale Avenue, East 167 Street","Rev. Polite Playground","Yes","2018-07-03 15:40:15.444034","2018-07-03 15:40:15.444034",40.8260054,-73.89684989999999
+1038,"Bronx","East 178 Street & Ryer Avenue, Upper Level","Richman (Echo) Park Playground","Yes","2018-07-03 15:40:16.058343","2018-07-03 15:40:16.058343",40.8499008,-73.90179359999999
+1039,"Bronx","East 226 Street, Barnes Avenue, East 225 Street","Rienzi Playground","Yes","2018-07-03 15:40:16.673085","2018-07-03 15:40:16.673085",40.886892,-73.857593
+1044,"Manhattan","72nd to 79th streets between Hudson River and Henry Hudson Parkway","Riverside Park (Classic Playground)","Yes","2018-07-03 15:40:17.436953","2018-07-03 15:40:17.436953",40.785741,-73.984498
+1046,"Manhattan","West 91 Street & Riverside Drive","Riverside Park (Hippo Playground)","Yes","2018-07-03 15:40:18.31815","2018-07-03 15:40:18.31815",40.7927426,-73.9770935
+1047,"Manhattan","West 76 Street & Riverside Drive","Riverside Park (Neufeld Playground)","Yes","2018-07-03 15:40:18.995441","2018-07-03 15:40:18.995441",40.7831908,-73.9844723
+1048,"Manhattan","West 83 Street & Riverside Drive","Riverside Park (River Run Playground)","Yes","2018-07-03 15:40:19.717833","2018-07-03 15:40:19.717833",40.7876029,-73.9811651
+1050,"Manhattan","West 148 Street & Hudson River","Riverside Park (Ten Mile River Playground)","No","2018-07-03 15:40:20.976284","2018-07-03 15:40:20.976284",40.826288,-73.94413449999999
+1051,"Manhattan","Riverside Drive & West 96th Street","Riverside Park (Tennis Courts)","Yes","2018-07-03 15:40:21.805842","2018-07-03 15:40:21.805842",40.797217,-73.97344319999999
+1052,"Manhattan","1 Avenue, East 41 to East 42 streets","Robert Moses Playground","Yes","2018-07-03 15:40:23.334192","2018-07-03 15:40:23.334192",40.7480467,-73.96922850000001
+1054,"Queens","Between 87th Street and 100th Street","Rockaway Beach","No","2018-07-03 15:40:24.045994","2018-07-03 15:40:24.045994",40.6845964,-73.8539296
+1057,"Queens","Between 110th and 121st streets","Rockaway Beach (Beach 116Th)","Yes","2018-07-03 15:40:24.660011","2018-07-03 15:40:24.660011",40.6858936,-73.82196870000001
+1059,"Queens","Beach 117 Street","Rockaway Beach 117th L/G",,"2018-07-03 15:40:25.275621","2018-07-03 15:40:25.275621",40.5795009,-73.83810679999999
+1061,"Queens","Beach 97 Street","Rockaway Beach 97 Comfort Station",,"2018-07-03 15:40:25.888982","2018-07-03 15:40:25.888982",40.584947,-73.81880570000001
+1062,"Brooklyn","Rodney, South 3 & South 4 streets","Rodney Playground South","Yes","2018-07-03 15:40:26.710819","2018-07-03 15:40:26.710819",40.7099469,-73.9555042
+1063,"Brooklyn","Wilson & Lee avenues, Taylor Street","Roebling Playground","Yes","2018-07-03 15:40:27.323331","2018-07-03 15:40:27.323331",40.7064678,-73.96077129999999
+1064,"Manhattan","Jumel Terrace to Edgecombe Avenue, West 160 to West 162 streets","Roger Morris Park (Morris Jumel Mansion)","Yes","2018-07-03 15:40:27.937909","2018-07-03 15:40:27.937909",40.8349,-73.9397
+1065,"Brooklyn","New York & Clarkson avenues","Rolf Henry Playground","Yes","2018-07-03 15:40:28.759166","2018-07-03 15:40:28.759166",40.6560529,-73.93955489999999
+1066,"Bronx","Webster Avenue, Harlem River, East Fordham Road","Rose Hill Park","Yes","2018-07-03 15:40:29.376677","2018-07-03 15:40:29.376677",40.8614992,-73.890761
+1067,"Queens","Woodward Avenue, Woodbine Street, Fairview Avenue","Rosemary's Playground (JHS 93)","Yes","2018-07-03 15:40:29.986416","2018-07-03 15:40:29.986416",40.705483,-73.903772
+1068,"Queens","Northwest of fence running from 118th Road to hospital","Roy Wilkins Recreation Center","Yes","2018-07-03 15:40:30.599228","2018-07-03 15:40:30.599228",40.6870379,-73.7694259
+1069,"Queens","Southeast of fence running from 118th Road to hospital","Roy Wilkins Recreation Center","Yes","2018-07-03 15:40:31.012182","2018-07-03 15:40:31.012182",40.7282239,-73.7948516
+1070,"Brooklyn","Aberdeen Street & Bushwick Avenue","Rudd Playground","Yes","2018-07-03 15:40:31.488655","2018-07-03 15:40:31.488655",40.6823741,-73.9056353
+1071,"Queens","Jamaica Avenue, 153 Street, 89 Avenue, 150 Street","Rufus King Park","Yes","2018-07-03 15:40:32.243441","2018-07-03 15:40:32.243441",40.702736,-73.80228
+1073,"Queens","68 Avenue, Booth to Austin streets","Russell Sage Playground (JHS 190)","Yes","2018-07-03 15:40:33.26462","2018-07-03 15:40:33.26462",40.7278884,-73.8611641
+1074,"Manhattan","East Houston Street to Canal Street","Sara D. Roosevelt Park","Yes","2018-07-03 15:40:34.286162","2018-07-03 15:40:34.286162",40.7221498,-73.9853423
+1075,"Brooklyn","Howard Avenue, Halsey, Macon streets","Saratoga Square Park","Yes","2018-07-03 15:40:34.900353","2018-07-03 15:40:34.900353",40.6851865,-73.9204706
+1076,"Staten Island","Wild Avenue, Pearson Street","Schmul Park","Yes","2018-07-03 15:40:35.514283","2018-07-03 15:40:35.514283",40.5906341,-74.1884251
+1077,"Queens","Rockaway Beach Boulevard, B109-B110 streets","Seaside Playground (PS 225)","Yes","2018-07-03 15:40:36.538964","2018-07-03 15:40:36.538964",40.5805469,-73.8374249
+1078,"Brooklyn","Avenue P, Bay Parkway, West 12 Street","Seth Low Playground","Yes","2018-07-03 15:40:37.357866","2018-07-03 15:40:37.357866",40.6096878,-73.9857633
+1079,"Bronx","West 135 Street, Independence Avenue, West 232 Street","Seton Park","Yes","2018-07-03 15:40:38.382017","2018-07-03 15:40:38.382017",40.8165781,-73.94731159999999
+1080,"Bronx","West 235 Street & Douglas Avenue","Seton Park Playground","No","2018-07-03 15:40:38.999208","2018-07-03 15:40:38.999208",40.8869086,-73.9165713
+1081,"Manhattan","West 129 Street, Amsterdam Avenue","Sheltering Arms Park","Yes","2018-07-03 15:40:39.640668","2018-07-03 15:40:39.640668",40.8151225,-73.9549904
+692,"Manhattan","62 ST, BET WEST & CENTER DRS","Central Park (Heckscher Playground)",,"2018-07-03 15:38:46.078764","2018-07-03 16:17:20.436182",40.759723,-73.95817199999999
+723,"Brooklyn","Adams, Johnson, Fulton, Joralemon streets","Columbus Park","Yes","2018-07-03 15:38:59.502417","2018-07-03 16:17:25.744894",40.6921742,-73.98911919999999
+1034,"Brooklyn","King, Richards, & Dwight Streets","Red Hook Park (Coffey Park Playground)","Yes","2018-07-03 15:40:13.997908","2018-07-03 16:18:13.669567",41.8643773,-70.7586673
+1029,"Bronx","Randall Avenue, Castle Hill Avenue","Randall Playground","No","2018-07-03 15:40:13.823625","2018-07-03 16:20:04.263393",40.8188602,-73.847994
+1031,"Queens","LIE, 99 Street & 62 Avenue","Real Good Park (Lie Playground)","Yes","2018-07-03 15:40:13.890434","2018-07-03 16:20:05.287559",40.735001,-73.85834299999999
+1043,"Manhattan","West 124 Street & Riverside Drive","Riverside Park (Claremont)","Yes","2018-07-03 15:40:16.83519","2018-07-03 16:20:06.311603",40.8118401,-73.9631244
+1030,"Brooklyn","52-53 streets, Fort Hamilton Parkway","Rappaport Playground","Yes","2018-07-03 15:40:13.855965","2018-07-03 16:22:41.347805",40.64919,-74.02199499999999
+1035,"Queens","Fresh Pond Road, 63 Street, 59 Drive","Reiff Playground","Yes","2018-07-03 15:40:14.036718","2018-07-03 16:22:42.449112",40.7180155,-73.9011131
+1040,"Bronx","Bailey Avenue, West Kingsbridge Road","Riverbend Playground","Yes","2018-07-03 15:40:16.710878","2018-07-03 16:22:42.985734",40.8731945,-73.90569719999999
+1041,"Manhattan","Riverside Drive to Hudson River, West 59th Street to Clair Place","Riverside Park (Boat Basin)","No","2018-07-03 15:40:16.745078","2018-07-03 16:22:43.804141",40.8012339,-73.9723096
+1042,"Manhattan","105th Street, next to Henry Hudson Parkway","Riverside Park (Café)","No","2018-07-03 15:40:16.79164","2018-07-03 16:22:44.281971",40.800165,-73.96656399999999
+1049,"Manhattan","West 142 Street & Riverside Drive","Riverside Park (Riverbank Playground)","Yes","2018-07-03 15:40:19.830577","2018-07-03 16:22:45.03316",40.8254141,-73.9537574
+1055,"Queens","Between 100th Street and 110th Street","Rockaway Beach","No","2018-07-03 15:40:24.083723","2018-07-03 16:22:45.647612",40.7868424,-73.94527719999999
+1056,"Queens","Boardwalk & Beach 59-60 streets","Rockaway Beach & Boardwalk (Beach 59th Street Playground)","Yes","2018-07-03 15:40:24.119719","2018-07-03 16:22:46.272121",40.5918672,-73.7889197
+1060,"Queens","Beach 86 Street","Rockaway Beach 86 Comfort Station",,"2018-07-03 15:40:25.320676","2018-07-03 16:22:47.28587",40.5890567,-73.8114583
+1072,"Brooklyn","Colonial Road, 83 to 85 streets","Russell Pederson Playground","Yes","2018-07-03 15:40:32.297086","2018-07-03 16:22:48.514773",40.6269483,-74.035529
+1045,"Manhattan","West 97 Street & Riverside Drive","Riverside Park (Dinosaur Playground)","Yes","2018-07-03 15:40:17.507252","2018-07-03 16:23:57.470209",40.7966037,-73.97429509999999
+1058,"Queens","Beach 106 Street","Rockaway Beach 106 Comfort Station",,"2018-07-03 15:40:24.69726","2018-07-03 16:25:01.636869",40.582913,-73.82785539999999
+1053,"Queens","Guy Brewer Boulevard, 134 Avenue","Rochdale Park","Yes","2018-07-03 15:40:23.372298","2018-07-03 16:26:32.204506",40.6734137,-73.77560989999999
+1082,"Brooklyn","Owl's Head Park to Fort Hamilton Parkway Narrows Avenue","Shore Road Park","Yes","2018-07-03 15:40:41.096338","2018-07-03 15:40:41.096338",40.6401241,-74.0322927
+1083,"Brooklyn","72nd Street to Harbor View","Shore Road Park","Yes","2018-07-03 15:40:42.493701","2018-07-03 15:40:42.493701",40.5848128,-73.9307467
+1086,"Staten Island","Victory Boulevard, Clove Road, Forest Avenue","Silver Lake Park","Yes","2018-07-03 15:40:43.210462","2018-07-03 15:40:43.210462",40.6164581,-74.1034738
+1088,"Brooklyn","6 Avenue Bet 18 & 19 Sts","Slope Park","Yes","2018-07-03 15:40:44.061683","2018-07-03 15:40:44.061683",40.7295734,-74.002251
+1089,"Queens","125 Street & Atlantic Avenue","Smokey Oval","Yes","2018-07-03 15:40:44.98028","2018-07-03 15:40:44.98028",40.69527009999999,-73.8228218
+1090,"Manhattan","Columbus Avenue, West 91 to West 92 streets, Central Park West","Sol Bloom Playground","Yes","2018-07-03 15:40:46.372747","2018-07-03 15:40:46.372747",40.7746238,-73.97761059999999
+1091,"Manhattan","Broadway, Henry Street, Samuel Dickstein Place","Sol Lain Playground","No","2018-07-03 15:40:46.997991","2018-07-03 15:40:46.997991",40.7138054,-73.9850007
+1095,"Brooklyn","Atlantic Avenue & Elton Street","Sperandeo Brothers Playground","Yes","2018-07-03 15:40:48.878398","2018-07-03 15:40:48.878398",40.6781471,-73.8842054
+1096,"Queens","149 Avenue, Springfield Boulevard, 145 Road, 148 Street","Springfield Park","Yes","2018-07-03 15:40:49.910851","2018-07-03 15:40:49.910851",40.6635914,-73.75935319999999
+1097,"Manhattan","West 129 & 7 Avenue","St Nicholas Park South","Yes","2018-07-03 15:40:50.686535","2018-07-03 15:40:50.686535",40.8114858,-73.9463647
+1098,"Queens","174 Street & 113 Avenue","St. Albans Park (174 Street Playground)","Yes","2018-07-03 15:40:51.559783","2018-07-03 15:40:51.559783",40.8373589,-73.8876616
+1099,"Brooklyn","Atlantic Avenue & Herkimer Street","St. Andrew's Playground","Yes","2018-07-03 15:40:52.219982","2018-07-03 15:40:52.219982",40.6787018,-73.9422905
+1100,"Manhattan","East 67-68 streets, 1 Avenue","St. Catherine's Park","Yes","2018-07-03 15:40:53.065056","2018-07-03 15:40:53.065056",40.7652381,-73.95786919999999
+1102,"Bronx","St. Anns Avenue & East 147 Street","St. Mary's Park West","Yes","2018-07-03 15:40:54.388069","2018-07-03 15:40:54.388069",40.812969,-73.9137286
+1104,"Manhattan","West 133 Street & St. Nicholas Avenue","St. Nicholas Park","Yes","2018-07-03 15:40:55.103563","2018-07-03 15:40:55.103563",40.8157083,-73.9486715
+1105,"Manhattan","West 129 Street & St. Nicholas Terrace","St. Nicholas Park","Yes","2018-07-03 15:40:56.206939","2018-07-03 15:40:56.206939",40.81354899999999,-73.95132199999999
+1112,"Brooklyn","Montrose Avenue, Boerum, Lorimer, Leonard streets","Sternberg Park","Yes","2018-07-03 15:40:58.103794","2018-07-03 15:40:58.103794",40.7054394,-73.9479803
+1113,"Brooklyn","Marcy & Park avenues","Stockton Playground","Yes","2018-07-03 15:40:58.894502","2018-07-03 15:40:58.894502",40.6976649,-73.9517565
+1114,"Brooklyn","Classon Avenue & Sterling Place","Stroud Playground","Yes","2018-07-03 15:40:59.707682","2018-07-03 15:40:59.707682",40.6740047,-73.9603783
+1118,"Bronx","Guerlain Street, Thieriot Avenue, Taylor Avenue","Taylor Playground","Yes","2018-07-03 15:41:01.115209","2018-07-03 15:41:01.115209",40.839489,-73.865798
+1119,"Manhattan","West 77 Street & Amsterdam Avenue","Tecumseh Playground","Yes","2018-07-03 15:41:01.724275","2018-07-03 15:41:01.724275",40.7818433,-73.9792822
+1120,"Staten Island","Howard Avenue & Martha Street","Terrace Playground","Yes","2018-07-03 15:41:02.348306","2018-07-03 15:41:02.348306",40.6134581,-74.0979464
+1122,"Manhattan","1 Avenue to FDR Drive, East 111 to East 114 streets","Thomas Jefferson Park","Yes","2018-07-03 15:41:03.162794","2018-07-03 15:41:03.162794",40.7918764,-73.93560579999999
+1127,"Manhattan","Avenues A to B, East 7 to East 10 streets","Tompkins Square Park","Yes","2018-07-03 15:41:04.1882","2018-07-03 15:41:04.1882",40.7221103,-73.9831407
+1133,"Queens","Union Street & 31 Road","Union Playground (PS 214)","Yes","2018-07-03 15:41:05.211918","2018-07-03 15:41:05.211918",40.770632,-73.82656879999999
+1138,"Bronx","West 242nd Street & Broadway","Van Cortlandt Park (Pool Building)","Yes","2018-07-03 15:41:05.41524","2018-07-03 16:18:16.74175",40.8894768,-73.8981991
+1085,"Brooklyn","92nd Street to 4 Avenue - upper half, by road","Shore Road Park","No","2018-07-03 15:40:42.669048","2018-07-03 16:20:07.539871",40.617883,-74.02979410000002
+1123,"Bronx","Tiffany Street, Fox Street, East 167 Street","Tiffany Playground","Yes","2018-07-03 15:41:03.206142","2018-07-03 16:20:08.769419",40.82649869999999,-73.89386739999999
+1125,"Brooklyn","Tilden Avenue, East 48 to East 49 streets","Tilden Playground","Yes","2018-07-03 15:41:03.289555","2018-07-03 16:20:09.997883",40.6480575,-73.93194559999999
+1134,"Manhattan","Broadway to 4 Avenue, East 14 Street to East 17 streets","Union Square Park","Yes","2018-07-03 15:41:05.250003","2018-07-03 16:20:11.021423",40.7385558,-73.98977959999999
+1135,"Bronx","Broadway, Jerome Avenue, City Line, Van Cortlandt Park South","Van Cortlandt Park (Allen Shandler Recreation Area)","Yes","2018-07-03 15:41:05.284503","2018-07-03 16:20:11.840753",40.896327,-73.8876875
+1084,"Brooklyn","92nd Street to 4 Avenue - lower half, by expressway","Shore Road Park","Yes","2018-07-03 15:40:42.556267","2018-07-03 16:22:49.12907",40.6183326,-74.0301774
+1092,"Bronx","Metcalf Avenue between Seward and Randall avenues","Soundview Park Playground","No","2018-07-03 15:40:47.124175","2018-07-03 16:22:49.743391",40.8255056,-73.8716425
+1103,"Bronx","Jackson Avenue between East 144 and 145 streets","St. Mary's Playground East Playground","Yes","2018-07-03 15:40:54.451634","2018-07-03 16:22:50.973907",40.8130069,-73.9091696
+1107,"Manhattan","East 35-East 36 streets, between 1 & 2 avenues","St. Vartan Park","Yes","2018-07-03 15:40:57.044435","2018-07-03 16:22:52.0017",40.7618628,-73.96608549999999
+1108,"Manhattan","East 96-97 streets & FDR Drive","Stanley Isaacs","Yes","2018-07-03 15:40:57.092066","2018-07-03 16:22:52.58208",40.78366,-73.9435029
+1111,"Bronx","Baychester Avenue, Crawford Avenue","Stars & Stripes Playground","Yes","2018-07-03 15:40:57.200472","2018-07-03 16:22:53.096319",40.8847246,-73.84044089999999
+1115,"Brooklyn","41 to 44 streets, 5 to 7 avenues","Sunset Park","Yes","2018-07-03 15:40:59.976452","2018-07-03 16:22:53.84223",40.6479517,-74.0037443
+1126,"Staten Island","Schmidts Lane & Manor Road","Todt Hill Playground","Yes","2018-07-03 15:41:03.324858","2018-07-03 16:22:55.069246",40.60884,-74.1211568
+1128,"Bronx","Corner of East 175 Street & Arthur Avenue","Tremont Park Playground","Yes","2018-07-03 15:41:04.23698","2018-07-03 16:22:55.887601",40.8438985,-73.8947239
+1136,"Bronx","Van Cortlandt Park South and Gouverneur Avenue","Van Cortlandt Park (Classic Playground)","Yes","2018-07-03 15:41:05.319683","2018-07-03 16:22:56.707061",40.8848558,-73.8908107
+1087,"Bronx","East 183 Street, Ryer Avenue, Valentine Avenue","Slattery Playground","Yes","2018-07-03 15:40:43.380814","2018-07-03 16:23:58.147823",40.8571106,-73.89906429999999
+1106,"Manhattan","West 140 Street & St. Nicholas Avenue","St. Nicholas Park (Arlington Edinboro Playground)","Yes","2018-07-03 15:40:56.511389","2018-07-03 16:23:58.967147",40.8205718,-73.9464091
+1129,"Queens","Hoyt Avenue, 19 to 21 streets","Triborough Bridge Playground A","Yes","2018-07-03 15:41:04.278582","2018-07-03 16:24:00.196563",40.7720479,-73.9189789
+1132,"Brooklyn","Lafayette & Waverly avenues","Underwood Park","Yes","2018-07-03 15:41:04.405173","2018-07-03 16:24:00.810031",40.6880961,-73.9668496
+1101,"Bronx","450 St. Ann's Avenue","St. Mary's Park (Recreation Center)","Yes","2018-07-03 15:40:53.497622","2018-07-03 16:26:32.880259",40.8113602,-73.914075
+1109,"Staten Island","Tompkins Avenue & Broad Street","Stapleton Playground","Yes","2018-07-03 15:40:57.129364","2018-07-03 16:26:33.593268",40.6246021,-74.0796033
+1116,"Brooklyn","West 27 Street & Surf Avenue","Surf Playground","Yes","2018-07-03 15:41:00.183128","2018-07-03 16:26:35.027516",40.57319320000001,-73.9927769
+1117,"Queens","64 Avenue, 218 & 219 streets","Tall Oak Playground","Yes","2018-07-03 15:41:00.651803","2018-07-03 16:26:35.846269",40.7464814,-73.7588956
+1121,"Bronx","Tratman Avenue, Street Peter's Avenue","The Pearly Gates","Yes","2018-07-03 15:41:02.403038","2018-07-03 16:26:36.665249",40.83917539999999,-73.8455295
+1130,"Queens","Hoyt Avenue, 21 to 23 streets","Triborough Bridge Playground B","No","2018-07-03 15:41:04.320238","2018-07-03 16:26:37.899331",40.773922,-73.923215
+1131,"Brooklyn","Underhill Avenue & Prospect Place","Underhill Playground","Yes","2018-07-03 15:41:04.366647","2018-07-03 16:26:38.508411",40.6770591,-73.9659806
+1137,"Bronx","West 239 Street & Van Cortlandt East","Van Cortlandt Park (Nature Center)","Yes","2018-07-03 15:41:05.368336","2018-07-03 16:26:39.328011",40.9010085,-73.8505941
+1094,"Bronx","Streetory Avenue, Bolton Avenue","Space Time Playground","No","2018-07-03 15:40:48.123693","2018-07-03 18:14:30.682651",40.8232821,-73.8599108
+588,"Bronx","Bronx Boulevard between East 226 and East 228 streets","227 Street Playground","Yes","2018-07-03 15:38:18.332844","2018-07-03 16:18:17.560394",40.8885459,-73.8549785
+590,"Bronx","East 156 Street, Tinton Avenue","Abigail Playground","No","2018-07-03 15:38:18.948893","2018-07-03 16:18:18.105514",40.8178778,-73.9050018
+598,"Queens","67 Avenue & 230 Street","Alley Park (PS 213)","Yes","2018-07-03 15:38:22.639917","2018-07-03 16:18:18.788502",40.7474618,-73.7467733
+594,"Manhattan","Hamilton Place, West 140 to West 141 streets","Alexander Hamilton Playground","Yes","2018-07-03 15:38:20.451578","2018-07-03 16:20:12.865278",40.8226627,-73.95130929999999
+587,"Bronx","East 174 Street, Stratford Avenue, Bronx River Avenue","174th Street Playground","Yes","2018-07-03 15:38:18.297476","2018-07-03 15:38:18.297476",40.833881,-73.8765918
+589,"Manhattan","East 135 Street, between Madison & 5 avenues","Abe Lincoln","Yes","2018-07-03 15:38:18.910948","2018-07-03 15:38:18.910948",40.8134669,-73.9356147
+591,"Bronx","East 215 Street, Barnes Avenue, East 216 Street","Agnes Haywood Playground","Yes","2018-07-03 15:38:19.321471","2018-07-03 15:38:19.321471",40.8805551,-73.8611145
+592,"Brooklyn","Albermarle Road & Dahill Road","Albemarle Park","Yes","2018-07-03 15:38:19.935541","2018-07-03 15:38:19.935541",40.644991,-73.980915
+593,"Brooklyn","Adelphi Street, Clermont, DeKalb & Willoughby avenues","Albert J. Parham Playground","Yes","2018-07-03 15:38:20.410217","2018-07-03 15:38:20.410217",40.689506,-73.9701278
+595,"Manhattan","Catherine Slip, Madison & South streets","Alfred E. Smith Park","Yes","2018-07-03 15:38:21.165501","2018-07-03 15:38:21.165501",40.7083001,-73.99941609999999
+596,"Manhattan","Lexington Avenue, East 128 & East 129 streets","Alice Kornegay Triangle","Yes","2018-07-03 15:38:21.988111","2018-07-03 15:38:21.988111",40.8073667,-73.93614529999999
+597,"Bronx","Anrow Avenue, Bouck Avenue, Throop Avenue, Streetedman Place, Allerton Avenue","Allerton Playground","Yes","2018-07-03 15:38:22.598677","2018-07-03 15:38:22.598677",40.8653322,-73.8517078
+599,"Queens","Entrance off Grand Central Parkway, includes athletic fields and picnic areas","Alley Pond Park","Yes","2018-07-03 15:38:23.369792","2018-07-03 15:38:23.369792",40.71864799999999,-73.79552340000001
+600,"Queens","Grand Central Parkway, Winchester Boulevard, &Union Turnpike","Alley Pond Park (Alley Athletic Field)","Yes","2018-07-03 15:38:24.032022","2018-07-03 15:38:24.032022",40.7390042,-73.73370129999999
+601,"Queens","Springfield Boulevard, 73rd Avenue, 76th Avenue to tree line & natural area","Alley Pond Park (Alley Pond Spring)","Yes","2018-07-03 15:38:24.647386","2018-07-03 15:38:24.647386",40.7077086,-73.73887069999999
+602,"Queens","Horatio Parkway and 50 Avenue","Alley Pond Park (Horatio Playground)","Yes","2018-07-03 15:38:25.260381","2018-07-03 15:38:25.260381",40.7582405,-73.75316529999999
+603,"Queens","Alystine Avenue & 102 Street","Alstyne Playground","Yes","2018-07-03 15:38:25.876297","2018-07-03 15:38:25.876297",40.7435666,-73.861842
+604,"Brooklyn","Noble, Franklin Milton Streets","American Playground","Yes","2018-07-03 15:38:25.896841","2018-07-03 15:38:25.896841",40.7291647,-73.957469
+605,"Queens","101 Avenue & 82 Street","Ampere Playground (PS 64)","Yes","2018-07-03 15:38:26.694374","2018-07-03 15:38:26.694374",40.6811275,-73.85704849999999
+606,"Queens","49 Avenue, Vernon Boulevard, 5 Street","Andrews Playground","No","2018-07-03 15:38:26.718447","2018-07-03 15:38:26.718447",40.7434202,-73.95387389999999
+607,"Queens","Yellowstone Boulevard, 65 Road, 65 Avenue","Annandale Playground (PS 175)","Yes","2018-07-03 15:38:26.747252","2018-07-03 15:38:26.747252",40.7302815,-73.8508143
+608,"Manhattan","Convent and Amsterdam Av, W 135 St","Annunciation Park",,"2018-07-03 15:38:27.512931","2018-07-03 15:38:27.512931",40.8189432,-73.9522229
+609,"Bronx","Teller Avenue, Park Avenue, Clay Avenue, East 64 Street","Arcilla Playground","Yes","2018-07-03 15:38:27.536891","2018-07-03 15:38:27.536891",40.8299904,-73.912577
+610,"Staten Island","Sand Lane, Major Avenue, McFarland Avenue","Arrochar Playground","Yes","2018-07-03 15:38:28.1286","2018-07-03 15:38:28.1286",40.59782250000001,-74.0717897
+611,"Queens","35th Street, between 35th and 36th Avenue","Arrow Community Garden","Yes","2018-07-03 15:38:28.150651","2018-07-03 15:38:28.150651",40.7503679,-73.9865054
+612,"Manhattan","Asser Levy Place & East 24-25 streets","Asser Levy","Yes","2018-07-03 15:38:28.167982","2018-07-03 15:38:28.167982",40.7361601,-73.9756582
+613,"Brooklyn","Boardwalk, Surf, Sea Breeze avenues, Ocean Parkway","Asser Levy Park","Yes","2018-07-03 15:38:28.185525","2018-07-03 15:38:28.185525",40.61425879999999,-73.9688702
+614,"Queens","30 Road, 45 to 46 streets","Astoria Heights Playground","Yes","2018-07-03 15:38:28.203515","2018-07-03 15:38:28.203515",40.769549,-73.928831
+615,"Queens","Shore Boulevard opposite 23 Road","Astoria Park (Charybdis Playground)","Yes","2018-07-03 15:38:28.946553","2018-07-03 15:38:28.946553",40.7808416,-73.9217625
+616,"Queens","29 Street, 30 Street, 30 Avenue, Newtown Avenue","Athens Sq (PS 17)","Yes","2018-07-03 15:38:29.77502","2018-07-03 15:38:29.77502",40.7672696,-73.9221848
+617,"Queens","170-171 streets, 33-35 avenues","Aubondale Playground","Yes","2018-07-03 15:38:29.815489","2018-07-03 15:38:29.815489",40.700939,-73.78581
+618,"Manhattan","West 170 Street & Audubon Avenue","Audubon Playground","Yes","2018-07-03 15:38:29.841457","2018-07-03 15:38:29.841457",40.8416671,-73.93750949999999
+619,"Manhattan","East 19 to East 20 streets, 2 Avenue","Augustus St. Gaudens","Yes","2018-07-03 15:38:29.860675","2018-07-03 15:38:29.860675",40.7360128,-73.9822792
+620,"Bronx","Bailey Avenue, Weast 233-West 238 streets","Bailey Playground","Yes","2018-07-03 15:38:29.879745","2018-07-03 15:38:29.879745",40.885019,-73.9000049
+621,"Queens","Rockaway Boulevard, 125th Avenue, & Baisley Boulevard South","Baisley Pond Park","Yes","2018-07-03 15:38:29.90012","2018-07-03 15:38:29.90012",40.6737751,-73.786025
+622,"Queens","150th Street, Rockaway Boulevard, Baisley Boulevard South, & North Conduit Avenue","Baisley Pond Park","Yes","2018-07-03 15:38:29.919424","2018-07-03 15:38:29.919424",40.6737751,-73.786025
+623,"Queens","157 Street & 116 Avenue","Baisley Pond Park (157th Street Playground)","Yes","2018-07-03 15:38:29.937896","2018-07-03 15:38:29.937896",40.6851275,-73.78653779999999
+624,"Brooklyn","Bartlett Street & Throop Avenue","Bartlett Playground","Yes","2018-07-03 15:38:29.955749","2018-07-03 15:38:29.955749",40.701655,-73.945645
+625,"Manhattan","Battery Place, State & Whitehall streets","Battery Park (Battery Gardens)","Yes","2018-07-03 15:38:29.976804","2018-07-03 15:38:29.976804",40.7024346,-74.0128434
+626,"Queens","23 Avenue & 212 Street","Bay Terrace Playground (PS 169)","Yes","2018-07-03 15:38:29.996721","2018-07-03 15:38:29.996721",40.7814134,-73.7781826
+627,"Queens","204 Street & 29 Avenue, Clearview Expressway","Bayside Fields","Yes","2018-07-03 15:38:30.585761","2018-07-03 15:38:30.585761",40.7728915,-73.78664669999999
+628,"Queens","Beach Channel Drive & Seaside Avenue","Bayside Playground (JHS 180)","No","2018-07-03 15:38:30.610291","2018-07-03 15:38:30.610291",40.5854984,-73.8246971
+629,"Brooklyn","Seaview Avenue & East 99 Street","Bayview Playground","Yes","2018-07-03 15:38:31.199279","2018-07-03 15:38:31.199279",40.6348048,-73.8879982
+630,"Brooklyn","Bedford Avenue & South 9 Street, Division Avenue","Bedford Playground","Yes","2018-07-03 15:38:31.219608","2018-07-03 15:38:31.219608",40.7087176,-73.9641937
+631,"Bronx","Tinton Avenue, East 165 Street, Union Avenue, East 166 Street","Behagen Playground","Yes","2018-07-03 15:38:31.238431","2018-07-03 15:38:31.238431",40.8260012,-73.9005191
+632,"Queens","89 Avenue, 207 & 208 streets","Bellaire Playground","Yes","2018-07-03 15:38:31.258055","2018-07-03 15:38:31.258055",40.7200386,-73.7575102
+633,"Bronx","Crotona Avenue, East 181 Street","Belmont Playground","Yes","2018-07-03 15:38:31.277103","2018-07-03 15:38:31.277103",40.8489353,-73.8881572
+634,"Manhattan","100th Street and Fifth Ave","Bendheim Playground",,"2018-07-03 15:38:31.2959","2018-07-03 15:38:31.2959",40.790655,-73.95317899999999
+635,"Manhattan","West 185 Street, Ft Washington Avenue","Bennett Park","Yes","2018-07-03 15:38:31.315235","2018-07-03 15:38:31.315235",40.8533949,-73.9374263
+636,"Brooklyn","Bath Avenue between Bay 22 & Bay 23 streets","Benson Playground","Yes","2018-07-03 15:38:31.333205","2018-07-03 15:38:31.333205",40.6027214,-74.0025837
+637,"Brooklyn","Gravesend Bay, 21 & Cropsey avenues, Bay Parkway","Bensonhurst Park","Yes","2018-07-03 15:38:31.814011","2018-07-03 15:38:31.814011",40.6076684,-74.01695529999999
+638,"Brooklyn","Livonia, Dumont, Hopkinson, Blake avenues, Strauss Street","Betsy Head Playground","Yes","2018-07-03 15:38:31.833502","2018-07-03 15:38:31.833502",40.667845,-73.88400399999999
+639,"Queens","61 Street, north and south of Brooklyn-Queens Expressway","Big Bush Park","Yes","2018-07-03 15:38:31.852886","2018-07-03 15:38:31.852886",40.7257668,-73.9041992
+640,"Brooklyn","Flatlands Avenue between East 81 & East 82 streets","Bildersee Playground","Yes","2018-07-03 15:38:32.450077","2018-07-03 15:38:32.450077",40.6356534,-73.9118244
+642,"Manhattan","Hudson & West 11 streets","Bleecker Playground","Yes","2018-07-03 15:38:32.495945","2018-07-03 15:38:32.495945",40.73630560000001,-74.00275049999999
+643,"Staten Island","Rockland, Manor and Brielle avenues, Forest Hill Road","Blood Root Valley (Greenbelt Nature Center)","Yes","2018-07-03 15:38:33.042644","2018-07-03 15:38:33.042644",45.5483729,-75.2916118
+644,"Staten Island","Richmond Pkwy, Bloomingdale Rd., Lenevar Ave","Bloomingdale Park",,"2018-07-03 15:38:33.198666","2018-07-03 15:38:33.198666",40.5334003,-74.2105955
+645,"Manhattan","Amsterdam Avenue, West 104 & West 105 streets","Bloomingdale Playground","Yes","2018-07-03 15:38:33.741933","2018-07-03 15:38:33.741933",40.79979790000001,-73.96564289999999
+646,"Staten Island","Poillon Avenue","Blue Heron Park Preserve (Nature Center)","Yes","2018-07-03 15:38:33.909714","2018-07-03 15:38:33.909714",40.530047,-74.1764384
+647,"Queens","159 Street, 29 Avenue, 155 Street, 32 Avenue","Bowne Park","Yes","2018-07-03 15:38:33.989715","2018-07-03 15:38:33.989715",40.7710924,-73.8053656
+648,"Queens","Union Street and Sanford Avenue","Bowne Playground","Yes","2018-07-03 15:38:34.032884","2018-07-03 15:38:34.032884",40.7576513,-73.8251902
+649,"Queens","Braddock Avenue & 240 Street","Breininger Park","Yes","2018-07-03 15:38:34.182702","2018-07-03 15:38:34.182702",40.72651620000001,-73.7282156
+650,"Brooklyn","Louisiana & Flatlands Avenue","Breukelen Playground","Yes","2018-07-03 15:38:34.36534","2018-07-03 15:38:34.36534",40.6511866,-73.8900487
+651,"Brooklyn","Ralph Avenue & Chauncy Street","Brevoort Playground","Yes","2018-07-03 15:38:34.535063","2018-07-03 15:38:34.535063",40.681211,-73.922406
+652,"Brooklyn","Bridge & Prospect streets","Bridge Park 2","Yes","2018-07-03 15:38:34.636142","2018-07-03 15:38:34.636142",40.7006533,-73.9875632
+653,"Manhattan","Broadway, Columbus Circle to West 110 Street","Broadway Malls","Yes","2018-07-03 15:38:35.911243","2018-07-03 15:38:35.911243",40.7687052,-73.9815814
+654,"Bronx","Lydig Avenue & Bronx Park East","Bronx Park (Ben Abrams Playground)","Yes","2018-07-03 15:38:35.937833","2018-07-03 15:38:35.937833",40.8543596,-73.86940969999999
+655,"Bronx","Bronx Park East between Bronxdale Avenue and Unionport Road","Bronx Park (Brady Playground)","Yes","2018-07-03 15:38:35.984957","2018-07-03 15:38:35.984957",40.850657,-73.865529
+656,"Bronx","East 204 Street & W/S Bronx Park","Bronx Park (French Charley's Playground)","Yes","2018-07-03 15:38:36.012699","2018-07-03 15:38:36.012699",40.8447819,-73.8648268
+657,"Bronx","East 219 Street & Bronx River Parkway","Bronx Park (Olinville Playground)","Yes","2018-07-03 15:38:36.041756","2018-07-03 15:38:36.041756",40.8892676,-73.864856
+658,"Bronx","Southern Boulevard, Webster, Burke avenues, Bronx Park East, 180 Street","Bronx Park (Ranaqua)","Yes","2018-07-03 15:38:36.076223","2018-07-03 15:38:36.076223",40.8648841,-73.8873042
+659,"Bronx","East 180th Street, Boston Road","Bronx Park (River Park Playground)","Yes","2018-07-03 15:38:36.730836","2018-07-03 15:38:36.730836",40.8426586,-73.8781479
+660,"Bronx","Bronx River Parkway & Rosewood Street","Bronx Park (Rosewood Playground)","Yes","2018-07-03 15:38:36.759809","2018-07-03 15:38:36.759809",40.8472958,-73.8707008
+661,"Bronx","Bronx Park East between Waring Avenure and Thwaites Place","Bronx Park (Waring Playground)","Yes","2018-07-03 15:38:37.35341","2018-07-03 15:38:37.35341",40.8606117,-73.87125309999999
+662,"Bronx","Bronx River Parkway, Bronx Park, Westchester/NYC City Line.","Bronx River Parkway (Parque de los Ninos)","Yes","2018-07-03 15:38:38.368382","2018-07-03 15:38:38.368382",40.9477597,-73.83453109999999
+663,"Queens","Conduit Avenue, Brookville Boulevard, 144th Avenue, 233rd Street","Brookville Park","Yes","2018-07-03 15:38:38.982373","2018-07-03 15:38:38.982373",40.661486,-73.7419798
+664,"Brooklyn","Brooklyn, St. Mark's, Kingston avenues, Park Place","Brower Park","Yes","2018-07-03 15:38:39.008161","2018-07-03 15:38:39.008161",40.6688302,-73.9422524
+665,"Brooklyn","Linden Boulevard & Hegeman Avenue","Brownsville Playground","Yes","2018-07-03 15:38:39.038914","2018-07-03 15:38:39.038914",40.6573153,-73.9002879
+666,"Bronx","La Salle Avenue, Edison Avenue, Bradford Avenue, Waterbury Avenue","Bufano Playground","Yes","2018-07-03 15:38:39.80314","2018-07-03 15:38:39.80314",40.83892609999999,-73.83104569999999
+667,"Brooklyn","Flushing Avenue, Bushwick Avenue & Humboldt Street","Bushwick Playground & Pool","No","2018-07-03 15:38:39.834004","2018-07-03 15:38:39.834004",40.7019109,-73.9369844
+1155,"Brooklyn","W. 2nd Street","West 2nd Street Comfort Station",,"2018-07-03 15:41:06.850448","2018-07-03 15:41:06.850448",40.587166,-73.9714822
+1157,"Brooklyn","W 8 St.","West 8nd Street CS",,"2018-07-03 15:41:07.668624","2018-07-03 15:41:07.668624",40.5772748,-73.9763662
+1160,"Brooklyn","Wythe Avenue, Berry & Grand streets","William Sheridan Playground","Yes","2018-07-03 15:41:08.488004","2018-07-03 15:41:08.488004",40.715109,-73.9627999
+1163,"Brooklyn","Tompkins & Willoughby avenues","Willoughby Playground","Yes","2018-07-03 15:41:09.108575","2018-07-03 15:41:09.108575",40.694229,-73.94608989999999
+1142,"Bronx","Vyse & Daly avenues between West 179-180 streets","Vidalia Park","No","2018-07-03 15:41:05.583869","2018-07-03 16:18:20.364292",40.83676699999999,-73.88596249999999
+1144,"Bronx","Virginia Avenue, McGraw Avenue, Cross Bronx Expressway, White Plains Road","Virginia Playground","No","2018-07-03 15:41:05.663302","2018-07-03 16:18:21.073762",40.8343338,-73.86295179999999
+1149,"Brooklyn","Park, Washington avenues to Hall Street","Washington Hall Playground","Yes","2018-07-03 15:41:05.847464","2018-07-03 16:18:22.06648",40.69547559999999,-73.9666572
+1150,"Manhattan","5 Avenue, Waverly Place, West 4 & MacDougal streets.","Washington Square Park Western Half","Yes","2018-07-03 15:41:05.89345","2018-07-03 16:18:22.785748",40.7310465,-73.9996201
+1151,"Bronx","Gleason Avenue, Rosedale Avenue, Watson Avenue, Nobel Avenue","Watson Gleason Playground","Yes","2018-07-03 15:41:05.928301","2018-07-03 16:18:23.705267",40.8273005,-73.86918229999999
+1152,"Queens","Robard Lane & 217 Street","Wayanda Park","Yes","2018-07-03 15:41:05.963254","2018-07-03 16:18:24.320836",40.7381313,-73.7559436
+1154,"Queens","37 Avenue & Bowne Street","Weeping Beech Park","Yes","2018-07-03 15:41:06.049283","2018-07-03 16:18:25.138449",40.7629781,-73.8253273
+1156,"Manhattan","West 59 to West 60 streets, Amsterdam to West End avenues","West 59th Street Recreation Center & Pool","Yes","2018-07-03 15:41:06.897016","2018-07-03 16:18:25.957828",40.7725233,-73.99011329999999
+1158,"Queens","12 Avenue & 153 Street","Whitestone Playground (PS 193)","Yes","2018-07-03 15:41:07.724536","2018-07-03 16:18:26.982042",40.7070832,-73.8037142
+1159,"Brooklyn","Avenue S, East 14 & East 15 streets","William E. Kelly Memorial Park","Yes","2018-07-03 15:41:07.766077","2018-07-03 16:18:27.802323",40.6040642,-73.9575292
+1162,"Bronx","East 139 Street, East 140 Street, Willis & Alexander avenues","Willis Playground","Yes","2018-07-03 15:41:08.572689","2018-07-03 16:18:29.439494",40.8100893,-73.9227404
+1140,"Brooklyn","Congress, Columbia, West/South BQE","Van Voorhees Lower Park","Yes","2018-07-03 15:41:05.514759","2018-07-03 16:20:13.479626",40.6896554,-74.0004677
+1146,"Queens","70 Road to 71 Avenue","Vleigh Playground (PS 165)","Yes","2018-07-03 15:41:05.736353","2018-07-03 16:20:15.322345",40.722562,-73.842445
+1145,"Queens","Vleigh Place & 141 Street","Vleigh Place Playground","Yes","2018-07-03 15:41:05.701761","2018-07-03 16:22:57.526185",40.71944,-73.8206507
+1147,"Manhattan","East 124 Street between 1 & 2 Avenues","Wagner Pool","No","2018-07-03 15:41:05.774739","2018-07-03 16:22:58.345337",40.80247139999999,-73.93448959999999
+1148,"Bronx","Matilda Avenue, East 239 Street, Carpenter Avenue","Wakefield Playground","Yes","2018-07-03 15:41:05.808359","2018-07-03 16:25:02.661176",40.90119800000001,-73.855648
+1141,"Manhattan","Spring & Thompson streets","Vesuvio Playground","Yes","2018-07-03 15:41:05.550028","2018-07-03 16:26:39.942402",40.7248988,-74.0026214
+1143,"Bronx","Mosholu Avenue, West 254 Street, Riverdale Avenue, West 256 Street","Vinmont Veteran Playground","Yes","2018-07-03 15:41:05.629618","2018-07-03 16:26:40.557385",40.9041459,-73.90503679999999
+1153,"Bronx","E. 188 St. Bet. Webster Ave. And Park Ave.","Webster Playground",,"2018-07-03 15:41:06.003767","2018-07-03 16:26:41.172539",40.8590563,-73.89150959999999
+641,"Brooklyn","Bedford Avenue, Avenue X ","Bill Brown Memorial Playground","Yes","2018-07-03 15:38:32.473161","2018-07-03 18:13:15.593189",40.5932846,-73.9453602
+1164,"Queens","Grand Central Parkway between 71 & 72 avenues","Willow Lake Playground (PS 196)","Yes","2018-07-03 15:41:09.149812","2018-07-03 16:19:49.517193",40.722976,-73.8377256
+1016,"Brooklyn","Coney Island Avenue/Arglye Road/Parkside Avenue/Caton Avenue","Prospect Park (West Parade Grounds)","Yes","2018-07-03 15:40:12.575691","2018-07-03 16:20:02.010088",40.6514144,-73.9688658
+893,"Queens","Lutheran Avenue; North and South Juniper boulevards; and the pathway from 76th Street on north end to 75th Street on south end","Juniper Valley Park","Yes","2018-07-03 15:39:52.154191","2018-07-03 16:22:19.392025",40.72080589999999,-73.88478909999999
+1012,"Brooklyn","Argyle Road/Parade Place./Parkside Avenue/Caton Avenue","Prospect Park (East Parade Grounds)","Yes","2018-07-03 15:40:11.233582","2018-07-03 16:22:37.660387",40.6514144,-73.9688658
+1033,"Brooklyn","Columbia and Bay streets, southeast of ""Halleck Street"" Sidewalk and northeast of ""Henry Street"" Sidewalk","Red Hook Park","Yes","2018-07-03 15:40:13.962618","2018-07-03 16:22:41.756318",40.8087796,-73.88002569999999
+1124,"Brooklyn","Evergreen Avenue & Eldert Street","Tiger Playground","Yes","2018-07-03 15:41:03.239323","2018-07-03 16:22:54.454256",40.688129,-73.91169099999999
+691,"Manhattan","110th Street between Fifth Avenue and Malcolm X Boulevard","Central Park (Dana Discovery Center)","Yes","2018-07-03 15:38:46.042025","2018-07-03 16:23:52.618181",40.7974649,-73.9516968
+1110,"Brooklyn","Franklin & Willoughby avenues","Star Spangled Banner Playground","Yes","2018-07-03 15:40:57.166201","2018-07-03 16:26:34.209266",40.6927713,-73.9576709
