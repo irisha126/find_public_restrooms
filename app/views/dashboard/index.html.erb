@@ -1,108 +1,25 @@
 <h2>Dashboard</h2>
 
-<!--
-<div id="map"></div>
 
-<script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyC_V2YhbRlxzD25WtJbAJo3oMyDCkpJqHk&callback=initMap"></script>
-    <div class="col-6">
--->
-        Num Results: <%= @my_restrooms.length %>
+Num Results: <%= @my_restrooms.length %>
 <!--    </div>-->
                    
-    <% @my_restrooms.each_with_index do |restroom, index| %>
-        <div class="location" data-latitude="<%=restroom.latitude %>" data-longitude="<%= restroom.longitude %>" data-title='<%= restroom.name %>'></div>
-    <% end %>
-       
-     <div id="map_wrapper">
+<% @my_restrooms.each_with_index do |restroom, index| %>
+    <div class="location" data-latitude="<%=restroom.latitude %>" data-longitude="<%= restroom.longitude %>" data-name ='<%= restroom.name %>'></div>
+<% end %>
+
+<div id="map_wrapper">
     <div id="map_canvas" class="mapping"></div>
 </div>     
-<script>
-   
-//    let restrooms = document.querySelectorAll('.location');
-//    let myBathroom;
-//    let markers=[];
-//    
-//    for (let i = 0; i < restrooms.length; i++){
-//        myBathroom = restrooms[i];
-//        let coordinates = {
-//        lat: parseFloat(myBathroom.getAttribute('data-latitude')),
-//        lng: parseFloat(myBathroom.getAttribute('data-longitude'))
-//        }
-//        markers.push(coordinates); 
-//    };
-//
-//       console.log(markers)
-//   
-//    function initMap() {
-//
-//        var map = new google.maps.Map(document.getElementById('map'), {
-//            zoom: 12
-////            center: myLatLng
-//            });
-//        
-//        for (let i = 0; i < markers.length; i++) { 
-//            
-//            let data = markers[i];
-//            latLng = new google.maps.LatLng(data.lat, data.lng);
-//           bounds.extend(latLng);
-//             let marker = new google.maps.Marker({
-//                position: latLng,
-//                map: map
-//                    
-//            });  
-//            
-//            
-//        }
-//    }
-//        
-    
-    
-    
-    
-    
-    
-    
-    
-    //        var myLatLng = {lat: parseFloat(latitude), lng: parseFloat(longitude)};
-//            let myLatLng;    
-//            for (let i = 0; i < markers.length; i++) {
-//                myLatLng = markers[i]; 
-//                
-//                let marker = new google.maps.Marker({
-//                    position: latLng,
-//                    map: map
-//                    
-//            }  
-//
-//            var map = new google.maps.Map(document.getElementById('map'), {
-//            zoom: 12,
-//            center: myLatLng
-//            });
-//
-//            var marker = new google.maps.Marker({
-//            position: myLatLng,
-//            map: map,
-//            title: 'Hello World!'
-//            });
-//        }
-//    
-</script>
-       
-    
-<!--
-    
-    for (var i = 0, length = json.length; i < length; i++) {
-  var data = json[i],
-      latLng = new google.maps.LatLng(data.lat, data.lng); 
 
-  // Creating a marker and putting it on the map
-  var marker = new google.maps.Marker({
-    position: latLng,
-    map: map,
-    title: data.title
-  });
-}
--->
+   
+
+    
+    
+    
+    
+    
+    
 <!---
         let restrooms = document.querySelectorAll('.location');
         let myBathroom = restrooms[0];
