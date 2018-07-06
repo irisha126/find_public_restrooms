@@ -1,0 +1,28 @@
+
+<%= form_for @bathroom_location do |f| %>
+<div class="card-body">
+	<div class="field form-group">
+		<%= f.label :borough %>
+		<%= f.select :borough, options_for_select(['Bronx', 'Brooklyn', 'Manhattan','Queens', 'Staten Island']), prompt: 'Select One' %>
+	</div>
+
+	<div class="field form-group">
+		<%= f.label :location %>
+		<%= f.text_field :location %>
+	</div>
+
+	<div class="field form-group">
+		<%= f.label :name %>
+		<%= f.text_field :name %>
+	</div>
+	
+	<div class="field form-group">
+		<%= f.label :open_year_round %>
+		<%= f.select :open_year_round, options_for_select(['Yes', 'No', 'N/A']), prompt: 'Select One' %>
+	</div>
+
+	<div class = 'actions'>
+		<%= f.submit %>
+	</div>
+</div>	
+<% end %>

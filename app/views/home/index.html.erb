@@ -1,0 +1,13 @@
+<% unless user_signed_in? %>   
+            <div>
+                <h3>Would you like to suggest a bathroom? </h3>
+            </div>
+            <div>
+                <%= link_to "Log In", new_user_session_path, class: "btn btn-outline-primary btn-block mt-3" %>
+            </div>
+            <div><h4>or</h4></div>
+            <div>
+                <%= link_to "Sign Up", new_user_registration_path, class: "btn btn-outline-primary btn-block mt-3" %>
+            </div>
+       
+        <% end %>
