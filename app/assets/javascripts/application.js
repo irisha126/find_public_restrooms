@@ -70,6 +70,7 @@ function initialize() {
 // Multiple Markers
     let markers=[];
     let infoWindowContent = [];
+    let stats = [];
     
     for (let i = 0; i < restrooms.length; i++){
         myBathroom = restrooms[i];
@@ -79,8 +80,17 @@ function initialize() {
             name: myBathroom.getAttribute('data-name')
         }
         
+        let info = {
+            name: myBathroom.getAttribute('data-name'),
+            location: myBathroom.getAttribute('data-location'),
+            borough: myBathroom.getAttribute('data-borough'),
+            open: myBathroom.getAttribute('data-open')
+        }
+        
         markers.push(coordinates); 
         infoWindowContent.push(coordinates.name);
+        stats.push(info);
+        
     };
         
 // Display multiple markers on a map
@@ -100,9 +110,21 @@ function initialize() {
         
 // Allow each marker to have an info window    
         google.maps.event.addListener(marker, 'click', (function(marker, i) {
+//            console.log(infoWindowContent[i])
+//            info.classList.toggle("show");
+            let toiletName = document.querySelector('.bathroom_name');
+            let toiletLocation = document.querySelector('.bathroom_location');
+            let toiletBorough = document.querySelector('.bathroom_borough');
+            let toiletOpen = document.querySelector('.bathroom_open');
             
             return function() {
-                infoWindow.setContent(infoWindowContent[i]);
+//               toiletName.innerText = infoWindowContent[i];
+                toiletName.innerText = stats[i].name;
+                toiletLocation.innerText = stats[i].location;
+                toiletBorough.innerText = stats[i].borough;
+                toiletOpen.innerText = stats[i].open;
+                
+               console.log(infoWindowContent[i]); infoWindow.setContent(infoWindowContent[i]);
                 infoWindow.open(map, marker);
             }
         })(marker, i));
