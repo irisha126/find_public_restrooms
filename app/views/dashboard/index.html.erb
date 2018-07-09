@@ -1,37 +1,37 @@
+<!--
 <h2>Dashboard</h2>
 
 
-Num Results: <%= @my_restrooms.length %>
-<!--    </div>-->
-<div class="row">
-<div class="col-6">               
+Num Results: <%#= @my_restrooms.length %>
+   
+-->
+
+               
 <% @my_restrooms.each_with_index do |restroom, index| %>
     <div class="location" data-latitude="<%=restroom.latitude %>" data-longitude="<%= restroom.longitude %>" data-name ='<%= restroom.name %>' data-location='<%= restroom.location %>' data-borough='<%= restroom.borough %>' data-open='<%= restroom.open_year_round %>'></div>
 <% end %>
 
- </div>  
-<!--
-        <div class="col-6 info">
-            <ul>
-               <%# @my_restrooms.each_with_index do |restroom, index| %>
-                <li><strong>Name:</strong>   <%#= restroom.name %></li>
-                <li><strong>Location:</strong>   <%#= restroom.location %></li>
-                <li><strong>Borough:</strong>  <%#= restroom.borough %></li>
-                <li><strong>Open Year Round:</strong></li>  <%#= restroom.open_year_round %>
-                <%# end %>
-            </ul>
-        </div>
--->
+  
 
-  <div class="col-6">
+
+  <div class="col-6 info">
      
       <strong>Name: </strong><p class = 'bathroom_name'> </p>
       <strong>Location:  </strong><p class = 'bathroom_location'></p>
       <strong>Borough: </strong><p class = 'bathroom_borough'></p>
-      <strong>Open Year Round: </strong><p class = 'bathroom_open'></p>    
+      <strong>Open Year Round: </strong><p class = 'bathroom_open'></p>
+        <div>
+            <strong>Mode of Travel: </strong>
+            <select id="mode" onchange="calcRoute();">
+                <option value="DRIVING">Driving</option>
+                <option value="WALKING">Walking</option>
+                <option value="BICYCLING">Bicycling</option>
+                <option value="TRANSIT">Transit</option>
+            </select>
+        </div>    
   </div> 
 
-  </div>  
+  
     
     
     
