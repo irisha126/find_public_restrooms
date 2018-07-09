@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  comment: MyText
+  num_of_stars: 1
+  bathroom_location: one
+  user: one
+
+two:
+  comment: MyText
+  num_of_stars: 1
+  bathroom_location: two
+  user: two

@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 2018_07_09_162328) do
+ActiveRecord::Schema.define(version: 2018_07_09_214446) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -40,6 +40,17 @@ ActiveRecord::Schema.define(version: 2018_07_09_162328) do
     t.float "longitude"
   end
 
+  create_table "reviews", force: :cascade do |t|
+    t.text "comment"
+    t.integer "num_of_stars"
+    t.bigint "bathroom_location_id"
+    t.bigint "user_id"
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+    t.index ["bathroom_location_id"], name: "index_reviews_on_bathroom_location_id"
+    t.index ["user_id"], name: "index_reviews_on_user_id"
+  end
+
   create_table "users", force: :cascade do |t|
     t.string "email", default: "", null: false
     t.string "encrypted_password", default: "", null: false
@@ -58,4 +69,6 @@ ActiveRecord::Schema.define(version: 2018_07_09_162328) do
   end
 
   add_foreign_key "bathroom_locations", "users"
+  add_foreign_key "reviews", "bathroom_locations"
+  add_foreign_key "reviews", "users"
 end

@@ -95,6 +95,11 @@ function initialize() {
         
     // Display multiple markers on a map
     let infoWindow = new google.maps.InfoWindow();
+    let globalMarker = undefined;
+    
+    document.getElementById("mode").addEventListener("change", function() {
+        calcRoute(globalMarker);
+    });
     
     // Loop through our array of markers & place each one on the map  
     for(let i = 0; i < markers.length; i++ ) {
@@ -106,10 +111,9 @@ function initialize() {
             title: markers[i].name,
             user: stats[i].user
         });
-        if 
-            (marker.user){
+        if (marker.user){
             iconFile = 'http://maps.google.com/mapfiles/ms/icons/green-dot.png'; 
-        marker.setIcon(iconFile);
+            marker.setIcon(iconFile);
         }
     
         
@@ -139,7 +143,9 @@ function initialize() {
                 infoWindow.open(map, markerClicked);
                 
                 // get directions to clicked marker
-                document.getElementById('mode').addEventListener("change", calcRoute(markerClicked));
+                globalMarker = markerClicked;
+                calcRoute(markerClicked);
+   
             }
         })(marker, i));
        

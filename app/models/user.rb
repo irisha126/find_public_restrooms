@@ -5,4 +5,5 @@ class User < ApplicationRecord
          :recoverable, :rememberable, :trackable, :validatable
     
     has_many :bathroom_locations
+    has_many :reviews
 end

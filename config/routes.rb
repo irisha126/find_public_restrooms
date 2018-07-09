@@ -9,5 +9,9 @@ Rails.application.routes.draw do
     
     root to: "home#index" 
     get '/dashboard', to: 'dashboard#index'
-    resources :bathroom_locations
+    resources :bathroom_locations do
+        resources :reviews
+    end
+    
+    
 end
