@@ -38,6 +38,7 @@ function initialize() {
 // Display a map on the page
     map = new google.maps.Map(document.getElementById("map_canvas"), mapOptions);
     directionsDisplay.setMap(map)
+    directionsDisplay.setPanel(document.getElementById('directionsPanel'));
     map.setTilt(45);   
     
     
@@ -82,7 +83,8 @@ function initialize() {
             name: myBathroom.getAttribute('data-name'),
             location: myBathroom.getAttribute('data-location'),
             borough: myBathroom.getAttribute('data-borough'),
-            open: myBathroom.getAttribute('data-open')
+            open: myBathroom.getAttribute('data-open'),
+            user: myBathroom.getAttribute('data-user')
         }
         
         markers.push(coordinates); 
@@ -91,83 +93,85 @@ function initialize() {
         
     };
         
-// Display multiple markers on a map
-    let infoWindow = new google.maps.InfoWindow(), marker, i;
+    // Display multiple markers on a map
+    let infoWindow = new google.maps.InfoWindow();
     
- 
-    
-// Loop through our array of markers & place each one on the map  
+    // Loop through our array of markers & place each one on the map  
     for(let i = 0; i < markers.length; i++ ) {
         let position = new google.maps.LatLng(markers[i].lat, markers[i].lng);
         bounds.extend(position);
-        marker = new google.maps.Marker({
+        let marker = new google.maps.Marker({
             position: position,
             map: map,
-            title: markers[i].name
+            title: markers[i].name,
+            user: stats[i].user
         });
-        iconFile = 'http://maps.google.com/mapfiles/ms/icons/green-dot.png'; 
-marker.setIcon(iconFile);
+        if 
+            (marker.user){
+            iconFile = 'http://maps.google.com/mapfiles/ms/icons/green-dot.png'; 
+        marker.setIcon(iconFile);
+        }
+    
         
-// Allow each marker to have an info window    
-        google.maps.event.addListener(marker, 'click', (function(marker, i) {
-//            console.log(infoWindowContent[i])
-//            info.classList.toggle("show");
+        
+        // Allow each marker to have an info window    
+        google.maps.event.addListener(marker, 'click', (function(markerClicked, i) {
             let toiletName = document.querySelector('.bathroom_name');
             let toiletLocation = document.querySelector('.bathroom_location');
             let toiletBorough = document.querySelector('.bathroom_borough');
             let toiletOpen = document.querySelector('.bathroom_open');
-            
+            let toiletUser = document.querySelector('.bathroom_user');
+
             return function() {
-//  Show stats for clicked marker
+                //  Show stats for clicked marker
                 toiletName.innerText = stats[i].name;
                 toiletLocation.innerText = stats[i].location;
                 toiletBorough.innerText = stats[i].borough;
                 toiletOpen.innerText = stats[i].open;
+                toiletUser.innerText = stats[i].user
                 
-  // Zoom when user is clicking on a marker              
+                // Zoom when user is clicking on a marker              
                 map.setZoom(13);
-                map.setCenter(marker.getPosition());
+                map.setCenter(markerClicked.getPosition());
                 
+                // Open info window for clicked marker            
+                infoWindow.setContent(infoWindowContent[i]);
+                infoWindow.open(map, markerClicked);
                 
-   // Open info window for clicked marker            
-               infoWindow.setContent(infoWindowContent[i]);
-               infoWindow.open(map, marker);
-                
-// get directions to clicked marker
-                calcRoute();
+                // get directions to clicked marker
+                document.getElementById('mode').addEventListener("change", calcRoute(markerClicked));
             }
         })(marker, i));
        
-
-// Automatically center the map fitting all markers on the screen
+        // Automatically center the map fitting all markers on the screen
         map.fitBounds(bounds);
     }
 
-// Override our map zoom level once our fitBounds function runs (Make sure it only runs once)
+    // Override our map zoom level once our fitBounds function runs (Make sure it only runs once)
     let boundsListener = google.maps.event.addListener((map), 'bounds_changed', function(event) {
         this.setZoom(14);
         google.maps.event.removeListener(boundsListener);
     });
 
 
-function calcRoute() {
-  var selectedMode = document.getElementById('mode').value;
-  var request = {
-      origin: pos,
-      destination: marker.position,
-      // Note that Javascript allows us to access the constant
-      // using square brackets and a string value as its
-      // "property."
-      travelMode: google.maps.TravelMode[selectedMode]
-  };
-  directionsService.route(request, function(response, status) {
-    if (status == 'OK') {
-      directionsDisplay.setDirections(response);
+    function calcRoute(markerClicked) {
+      let selectedMode = document.getElementById('mode').value;
+//        console.log(clickedMarker);
+      let request = {
+          origin: pos,
+          destination: markerClicked.position,
+          // Note that Javascript allows us to access the constant
+          // using square brackets and a string value as its
+          // "property."
+          travelMode: google.maps.TravelMode[selectedMode]
+      };
+      directionsService.route(request, function(response, status) {
+        if (status == 'OK') {
+          directionsDisplay.setDirections(response);
+        }
+      });
     }
-  });
 }
-   
-   }         // Ruby Excon gem, HTTParty gem
 
     
     

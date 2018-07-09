@@ -8,7 +8,7 @@ Num Results: <%#= @my_restrooms.length %>
 
                
 <% @my_restrooms.each_with_index do |restroom, index| %>
-    <div class="location" data-latitude="<%=restroom.latitude %>" data-longitude="<%= restroom.longitude %>" data-name ='<%= restroom.name %>' data-location='<%= restroom.location %>' data-borough='<%= restroom.borough %>' data-open='<%= restroom.open_year_round %>'></div>
+    <div class="location" data-latitude="<%=restroom.latitude %>" data-longitude="<%= restroom.longitude %>" data-name ='<%= restroom.name %>' data-location='<%= restroom.location %>' data-borough='<%= restroom.borough %>' data-open='<%= restroom.open_year_round %>' data-user='<%= restroom.user_id %>'></div>
 <% end %>
 
   
@@ -20,21 +20,22 @@ Num Results: <%#= @my_restrooms.length %>
       <strong>Location:  </strong><p class = 'bathroom_location'></p>
       <strong>Borough: </strong><p class = 'bathroom_borough'></p>
       <strong>Open Year Round: </strong><p class = 'bathroom_open'></p>
+       <strong>User: </strong><p class = 'bathroom_user'></p>
         <div>
             <strong>Mode of Travel: </strong>
-            <select id="mode" onchange="calcRoute();">
+            <select id="mode">
                 <option value="DRIVING">Driving</option>
                 <option value="WALKING">Walking</option>
                 <option value="BICYCLING">Bicycling</option>
                 <option value="TRANSIT">Transit</option>
             </select>
         </div>    
-  </div> 
-
+   
+</div> 
   
+ <div id="directionsPanel" style="width:60%;height 100%"></div>   
     
-    
-    
+   
     
     
 <!---

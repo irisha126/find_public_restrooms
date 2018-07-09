@@ -18,14 +18,14 @@
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
                 </button>
-            <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
-                <div class="navbar-nav">
-                    <%= link_to 'Home', dashboard_path, class: 'nav-item nav-link active' %> <span class="sr-only">(current)</span>
-                    <%= link_to 'About', dashboard_path, class: 'nav-item nav-link' %>
-                    <%= link_to 'Add a Bathroom', new_bathroom_location_path, class: 'nav-item nav-link' %>
-                    <%= link_to 'Log Out', destroy_user_session_path, method: 'DELETE', class: 'logout nav-item nav-link' %>
-        
-                </div>
+                <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+                    <div class="navbar-nav">
+                        <%= link_to 'Home', dashboard_path, class: 'nav-item nav-link active' %> <span class="sr-only">(current)</span>
+                        <%= link_to 'About', dashboard_path, class: 'nav-item nav-link' %>
+                        <%= link_to 'Add a Bathroom', new_bathroom_location_path, class: 'nav-item nav-link' %>
+                        <%= link_to 'Log Out', destroy_user_session_path, method: 'DELETE', class: 'logout nav-item nav-link' %>
+
+                    </div>
                 </div>
             </nav>
 
@@ -33,23 +33,23 @@
         <% end %>
 
         <div class="container">
-        <div class="row">
-        <div class="col-6">
-        <div id="map_wrapper">
-        <div id="map_canvas" class="mapping"></div>
-        </div> 
-        </div>
-<div class="col-6">
+            <div class="row">
+                <div class="col-6">
+                    <div id="map_wrapper">
+                    <div id="map_canvas" class="mapping"></div>
+                    </div> 
+                </div>
+                <div class="col-6">
        
-            <% if notice %>
-                <p class="alert alert-success"><%= notice %></p>
-            <% end %>
-            <% if alert %>
-                <p class="alert alert-danger"><%= alert %></p>
-            <% end %>
+                    <% if notice %>
+                        <p class="alert alert-success"><%= notice %></p>
+                    <% end %>
+                    <% if alert %>
+                        <p class="alert alert-danger"><%= alert %></p>
+                    <% end %>
 
-            <%= yield %>
-            </div>
+                    <%= yield %>
+                </div>
             </div>
         </div>
 
