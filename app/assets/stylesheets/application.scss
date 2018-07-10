@@ -102,3 +102,55 @@
   top: 2px;
   left: 2px;
 }
+
+.align-right {
+    text-align: right;
+}
+.align-left {
+    text-align: left;
+}
+
+p{
+    margin-bottom: 0
+}
+
+.container{
+    padding-top: 40px;
+}
+
+.login{
+    background-image: url('/assets/home-page.png');
+    background-size: cover;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+    height: 400px;
+    color: white;
+    
+}
+
+.msg{
+    position: relative;
+    top: 50%;
+   
+}
+
+.home-image{
+    background-image: url('/assets/dendy-park-toilets');
+     background-size: cover;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+    height: 400px;
+    color: white;
+}
+
+.registration {
+    background-image: url('/assets/home-page.png');
+    background-size: cover;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+    height: 400px;
+    color: white;
+}
+
+.marker-details{
+    display:none;
+    padding: 20px
+}
+

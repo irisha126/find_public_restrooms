@@ -84,7 +84,8 @@ function initialize() {
             location: myBathroom.getAttribute('data-location'),
             borough: myBathroom.getAttribute('data-borough'),
             open: myBathroom.getAttribute('data-open'),
-            user: myBathroom.getAttribute('data-user')
+            user: myBathroom.getAttribute('data-user'),
+            id: myBathroom.getAttribute('data-id')
         }
         
         markers.push(coordinates); 
@@ -97,9 +98,13 @@ function initialize() {
     let infoWindow = new google.maps.InfoWindow();
     let globalMarker = undefined;
     
-    document.getElementById("mode").addEventListener("change", function() {
-        calcRoute(globalMarker);
-    });
+    let transitSelect = document.getElementById("mode");
+    if (transitSelect) {
+        transitSelect.addEventListener("change", function() {
+            calcRoute(globalMarker);
+        });
+    }
+    
     
     // Loop through our array of markers & place each one on the map  
     for(let i = 0; i < markers.length; i++ ) {
@@ -109,7 +114,8 @@ function initialize() {
             position: position,
             map: map,
             title: markers[i].name,
-            user: stats[i].user
+            user: stats[i].user,
+            id: stats[i].id
         });
         if (marker.user){
             iconFile = 'http://maps.google.com/mapfiles/ms/icons/green-dot.png'; 
@@ -117,6 +123,9 @@ function initialize() {
         }
     
         
+          let isDivHidden = true;
+            let toggleDiv = document.querySelector('.marker-details');
+            let toggleDiv1 = document.querySelector('.image-placeholder');
         
         // Allow each marker to have an info window    
         google.maps.event.addListener(marker, 'click', (function(markerClicked, i) {
@@ -125,8 +134,16 @@ function initialize() {
             let toiletBorough = document.querySelector('.bathroom_borough');
             let toiletOpen = document.querySelector('.bathroom_open');
             let toiletUser = document.querySelector('.bathroom_user');
+            let toiletId = document.querySelector('.bathroom_id')
+            
+
 
             return function() {
+                          if (isDivHidden){
+              toggleDiv.classList.remove('marker-details')
+              toggleDiv1.classList.add('marker-details')
+              isDivHidden = false;
+          }
                 //  Show stats for clicked marker
                 toiletName.innerText = stats[i].name;
                 toiletLocation.innerText = stats[i].location;

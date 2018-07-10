@@ -12,9 +12,13 @@ class DashboardController < ApplicationController
 #                )
         
          @my_restrooms = BathroomLocation.all
+        
+#        @bathroom_location = BathroomLocation.find(params[:id])
 #        results = Geocoder.search('my_response['location']')
 #        @my_result= results.first.coordinates
         
     end
+    
+    
     
 end
