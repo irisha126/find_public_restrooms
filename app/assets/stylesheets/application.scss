@@ -33,6 +33,12 @@
 //  padding: 0;
 //}
 
+
+//@import 'partials/variables'
+//    @import 'partials/mixins'
+
+@import url('https://fonts.googleapis.com/css?family=Archivo');
+
 #map_wrapper {
     height: 400px;
 }
@@ -130,11 +136,14 @@ p{
 .msg{
     position: relative;
     top: 50%;
+    margin-right: 20px;
+    padding-top: 5px
+    
    
 }
 
 .home-image{
-    background-image: url('/assets/dendy-park-toilets');
+    background-image: url('/assets/dendy-park-toilets.png');
      background-size: cover;
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
     height: 400px;
@@ -142,6 +151,7 @@ p{
 }
 
 .registration {
+    
     background-image: url('/assets/home-page.png');
     background-size: cover;
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
@@ -154,3 +164,50 @@ p{
     padding: 20px
 }
 
+.dashboard-image{
+    background-image: url('/assets/men-to-the-right.jpg');
+    background-size: cover;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+    height: 400px;
+    color: white;
+}
+
+.navbar-nav{
+    position:absolute;
+    right:10px; 
+}
+
+.navbar{
+    background-color: #e6e6e6
+}
+
+btn{
+    margin-left: 5px;
+    margin-right: 5px
+}
+
+.logo{
+    font-family: 'Archivo', sans-serif;
+    font-weight: bold;
+    color: black;
+    font-size:30px;
+    text-shadow: 2px 2px lightgrey;
+}
+
+footer{
+    margin-top: 50px;
+    text-align: center
+}
+
+body{
+   font-family: 'Archivo', sans-serif; 
+}
+
+.new-bathroom{
+    background-image: url('/assets/Sudoku.jpg');
+    background-size: cover;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+    height: 400px;
+    color: white;
+    text-shadow: 2px 2px black;
+}

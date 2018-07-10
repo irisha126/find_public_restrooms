@@ -1,28 +1,34 @@
-
+<div class="row new-bathroom">
+    <div class="col-md-3 col-md-offset-3"></div>
+    <div class="col-md-6 col-md-offset-6">
 <%= form_for @bathroom_location do |f| %>
 <div class="card-body">
 	<div class="field form-group">
 		<%= f.label :borough %>
-		<%= f.select :borough, options_for_select(['Bronx', 'Brooklyn', 'Manhattan','Queens', 'Staten Island']), prompt: 'Select One' %>
+		<%= f.select :borough, options_for_select(['Bronx', 'Brooklyn', 'Manhattan','Queens', 'Staten Island']), prompt: 'Select One', class: "form-control" %>
 	</div>
 
 	<div class="field form-group">
 		<%= f.label :location %>
-		<%= f.text_field :location %>
+		<%= f.text_field :location, class: "form-control" %>
 	</div>
 
 	<div class="field form-group">
 		<%= f.label :name %>
-		<%= f.text_field :name %>
+		<%= f.text_field :name, class: "form-control" %>
 	</div>
 	
 	<div class="field form-group">
 		<%= f.label :open_year_round %>
-		<%= f.select :open_year_round, options_for_select(['Yes', 'No', 'N/A']), prompt: 'Select One' %>
+		<%= f.select :open_year_round, options_for_select(['Yes', 'No', 'N/A']), prompt: 'Select One', class: "form-control" %>
 	</div>
 
 	<div class = 'actions'>
-		<%= f.submit %>
+		<%= f.submit 'Submit', class: "btn btn-primary btn-lg btn-block" %>
 	</div>
 </div>	
 <% end %>
+  </div>
+    <div class="col-md-3 col-md-offset-3"></div>
+
+</div>
