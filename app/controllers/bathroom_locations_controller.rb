@@ -8,7 +8,8 @@ class BathroomLocationsController < ApplicationController
     end
     
     def create
-        new_bathroom_location = BathroomLocation.create(bathroom_location_params.merge(user_id: current_user.id))  
+        new_bathroom_location = BathroomLocation.create(bathroom_location_params.merge(user_id: current_user.id))
+       
         redirect_to dashboard_path
     end
     

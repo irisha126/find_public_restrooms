@@ -149,7 +149,7 @@ function initialize() {
                 toiletLocation.innerText = stats[i].location;
                 toiletBorough.innerText = stats[i].borough;
                 toiletOpen.innerText = stats[i].open;
-                toiletUser.innerText = stats[i].user
+//                toiletUser.innerText = stats[i].user
                 
                 // Zoom when user is clicking on a marker              
                 map.setZoom(13);
