@@ -1,25 +1,16 @@
-# README
+## Inspiration
+#### We often find ourselves in a situation when we need to answer nature's call in the most unexpected places. Big cities could be specially overwhelming. This app was created to help user find free public restroom in New York City.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## What it does
+#### Find users location
+#### Displays public restrooms nearby
+#### Provides direction to selected restrooms
+#### Allows user to add a new restroom location (displayed by different color marker)
 
-Things you may want to cover:
+## How it was built
+#### Application was built with the help of Google Maps API, Ruby on Rails v.5.2.0, PostgreSQL, Bootstrap.
+#### Information regarding locations of restrooms (displayed by red markers) was sourced from NYC Open Data.
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-# find_public_restrooms
+## What's next
+#### User will be able to rate restrooms as well as add helpful comments
+#### Create a mobile version of the application
