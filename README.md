@@ -12,5 +12,5 @@
 * Information regarding locations of restrooms (displayed by red markers) was sourced from NYC Open Data.
 
 ## What's next
-#### User will be able to rate restrooms as well as add helpful comments
-#### Create a mobile version of the application
+* User will be able to rate restrooms as well as add helpful comments
+* Create a mobile version of the application
