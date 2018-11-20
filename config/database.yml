@@ -24,6 +24,9 @@ default: &default
 development:
   <<: *default
   database: find_public_restroom_development
+  host: localhost
+  username: postgres
+  password: Microsoft1
 
   # The specified database role being used to connect to postgres.
   # To create additional roles in postgres see `$ createuser --help`.
@@ -32,7 +35,7 @@ development:
   #username: find_public_restroom
 
   # The password associated with the postgres role (username).
-  #password:
+  #password:'
 
   # Connect on a TCP socket. Omitted by default since the client uses a
   # domain socket that doesn't need configuration. Windows does not have
@@ -58,6 +61,8 @@ development:
 test:
   <<: *default
   database: find_public_restroom_test
+  username: postgres
+  password: Microsoft1
 
 # As with config/secrets.yml, you never want to store sensitive information,
 # like your database password, in your source code. If your source code is
@@ -82,4 +87,4 @@ production:
   <<: *default
   database: find_public_restroom_production
   username: find_public_restroom
-  password: <%= ENV['FIND_PUBLIC_RESTROOM_DATABASE_PASSWORD'] %>
+  password: Microsoft1
