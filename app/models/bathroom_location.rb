@@ -9,6 +9,7 @@ class BathroomLocation < ApplicationRecord
     
     private
     def address_from_components
+    	# puts '::::::::::::  geocode :::::::::::'
         "#{location}, #{borough}"
     end
 end

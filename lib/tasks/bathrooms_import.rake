@@ -1,6 +1,3 @@
-
-
-
 namespace :dummy do 
 
     task create_bathroom_locations: :environment do
